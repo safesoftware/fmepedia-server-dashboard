@@ -6,7 +6,7 @@ $(document).ready(function(){
 });
 
 	function init(){
-		loadCharts('bluesky-safe-software.fmecloud.com', 'cfc33ff772dd1a80d89d7080b31321172520fa03', 'LaurasWorkspaces');
+		loadCharts('bluesky-safe-software.fmecloud.com', 'e2a23b8cd3833f7daae596d429749967b452cd6a', 'LaurasWorkspaces');
 	}
 
 	function loadCharts(host, token, repository){
