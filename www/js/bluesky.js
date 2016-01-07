@@ -17,9 +17,9 @@ $(document).ready(function(){
 	}
 
 	function resize(pointCount, element, amount){
-		var test = $('#' + element ).children([0]);
-		test.height(pointCount * amount);
-		$(window).resize();
+		var chartDiv = $('#' + element ).children([0]);
+		chartDiv.height(pointCount * amount);
+		window.dispatchEvent(new Event('resize'));
 	}
 
 

@@ -8,8 +8,8 @@ function loadruntimeperengine(host, token, repository, numEngines){
 				renderTo: 'runtimeperengine'
 			},
 			data: {
-				csv: csv1,
-			}, 
+				csv: csv1
+			},
 			title: {
 				text: 'Total Running Time of All Jobs',
 				style: {
@@ -19,6 +19,12 @@ function loadruntimeperengine(host, token, repository, numEngines){
 			},
 			tooltip: {
 				valueSuffix: ' s'
+			},
+			xAxis: {
+				labels: {
+					format: '{value:%b %d}',
+					rotation: 0
+				}
 			},
 			yAxis: {
 				plotLines: [{
