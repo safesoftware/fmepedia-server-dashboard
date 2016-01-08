@@ -7,7 +7,8 @@ function loadjobsperengine(host, token, repository, numEngines){
 				renderTo: 'jobsperengine'
 			},
 			data: {
-				csv: csv1			}, 
+				csv: csv1			
+			}, 
 			title: {
 				text: 'Number of Jobs Run by Engine',
 				style: {
