@@ -5,55 +5,53 @@
 #    Command-line to run this workspace:
 #    
 #    
-#    "/Applications/FME 2015/Engine/fme" /www/fmepedia-server-dashboard/fme/WorkspaceRuns_RESTVersion.fmw
+#    "/Applications/FME 2015/Engine/fme" /www/fmepedia-server-dashboard/fme/2015_Workspaces/WorkspaceRuns_RESTVersion.fmw
 #          --Max_Job_Age "1 month ago"
-#          --SERVER_HOST ""
-#          --SERVER_TOKEN "********"
 #    
 #    
-#! FME_STROKE_MAX_DEVIATION="0"
-#! FME_GEOMETRY_HANDLING="Enhanced"
-#! LOG_FILE=""
-#! CATEGORY=""
-#! SHOW_INFO_NODES="true"
-#! WARN_INVALID_XFORM_PARAM="Yes"
-#! ZOOM_SCALE="100"
-#! ATTR_TYPE_ENCODING="SDF"
-#! DOC_EXTENTS="4947.97 821.38"
-#! REQUIREMENTS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#! TITLE="none2none"
-#! FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
-#! FME_DOCUMENT_GUID="dcad0688-6865-11e5-9a23-60030894943e"
-#! FME_REPROJECTION_ENGINE="FME"
-#! DESTINATION_ROUTING_FILE=""
-#! BEGIN_TCL=""
-#! LAST_SAVE_BUILD="FME(R) 2015.1.2.0 (20150911 - Build 15538 - macosx)"
-#! BEGIN_PYTHON=""
-#! FME_BUILD_NUM="15538"
-#! LEGAL_TERMS_CONDITIONS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#! LAST_SAVE_DATE="2015-10-01T10:57:20"
-#! PASSWORD=""
-#! END_PYTHON=""
-#! IGNORE_READER_FAILURE="No"
-#! MULTI_WRITER_DATASET_ORDER="BY_ID"
-#! SHOW_ANNOTATIONS="true"
-#! HISTORY=""
-#! FME_DOCUMENT_PRIORGUID="62452746-a970-11e3-97c0-ad0953a378d2,7e30a5b8-4693-11e5-baa3-60030894943e,0956ecd4-469d-11e5-baa3-60030894943e,5e2875de-46b6-11e5-baa3-60030894943e,03ac49b8-46b7-11e5-baa3-60030894943e,98ef40c4-46c2-11e5-9d27-60030894943e,fbf10f66-4787-11e5-b1ab-60030894943e,0724d5ac-4788-11e5-b1ab-60030894943e,f061cf5e-4792-11e5-b7a3-60030894943e,1bcb328c-4849-11e5-ae83-60030894943e,0271e2fe-4cef-11e5-b62d-60030894943e,07dfe4c4-4cf0-11e5-b62d-60030894943e,f793a926-4d11-11e5-ab6c-60030894943e,331b1d73-f707-4bfa-a3d7-af3d97daf738,8327c44e-526d-11e5-add5-60030894943e,4f61ef08-5d7c-11e5-a26f-60030894943e,3ff802aa-630d-11e5-8d9d-60030894943e,c34e74f2-630f-11e5-91b4-60030894943e,5cf90d3c-63e3-11e5-8ae6-60030894943e"
-#! SOURCE="NONE"
-#! LOG_MAX_RECORDED_FEATURES="200"
-#! VIEW_POSITION="-147.001 -3.00003"
-#! DESTINATION="NONE"
-#! DOC_TOP_LEFT="-104.675 -978.635"
 #! USAGE="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#! DESCRIPTION="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#! END_TCL=""
+#! LEGAL_TERMS_CONDITIONS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#! REQUIREMENTS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#! LOG_MAX_RECORDED_FEATURES="200"
+#! DESTINATION="NONE"
+#! DOC_EXTENTS="4947.97 821.38"
 #! FME_SERVER_SERVICES=""
+#! FME_BUILD_NUM="15567"
+#! END_PYTHON=""
+#! PASSWORD=""
+#! BEGIN_TCL=""
+#! ZOOM_SCALE="100"
+#! FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#! SOURCE_ROUTING_FILE=""
+#! MAX_LOG_FEATURES="200"
+#! END_TCL=""
+#! FME_STROKE_MAX_DEVIATION="0"
+#! SHOW_ANNOTATIONS="true"
+#! FME_GEOMETRY_HANDLING="Enhanced"
+#! TITLE="none2none"
+#! FME_REPROJECTION_ENGINE="FME"
 #! LOG_MAX_PRECISION="Yes"
 #! WORKSPACE_VERSION="1"
+#! FME_DOCUMENT_GUID="54f22e30-b590-11e5-8b58-60030894943e"
+#! ATTR_TYPE_ENCODING="SDF"
+#! FME_DOCUMENT_PRIORGUID="62452746-a970-11e3-97c0-ad0953a378d2,7e30a5b8-4693-11e5-baa3-60030894943e,0956ecd4-469d-11e5-baa3-60030894943e,5e2875de-46b6-11e5-baa3-60030894943e,03ac49b8-46b7-11e5-baa3-60030894943e,98ef40c4-46c2-11e5-9d27-60030894943e,fbf10f66-4787-11e5-b1ab-60030894943e,0724d5ac-4788-11e5-b1ab-60030894943e,f061cf5e-4792-11e5-b7a3-60030894943e,1bcb328c-4849-11e5-ae83-60030894943e,0271e2fe-4cef-11e5-b62d-60030894943e,07dfe4c4-4cf0-11e5-b62d-60030894943e,f793a926-4d11-11e5-ab6c-60030894943e,331b1d73-f707-4bfa-a3d7-af3d97daf738,8327c44e-526d-11e5-add5-60030894943e,4f61ef08-5d7c-11e5-a26f-60030894943e,3ff802aa-630d-11e5-8d9d-60030894943e,c34e74f2-630f-11e5-91b4-60030894943e,5cf90d3c-63e3-11e5-8ae6-60030894943e,b2b7ecf2-65fa-11e5-9af5-60030894943e"
+#! HISTORY=""
+#! DESCRIPTION="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#! DESTINATION_ROUTING_FILE=""
+#! LOG_FILE=""
+#! CATEGORY=""
+#! SOURCE="NONE"
+#! BEGIN_PYTHON=""
+#! LAST_SAVE_BUILD="FME(R) 2015.1.3.0 (20151021 - Build 15567 - macosx)"
+#! VIEW_POSITION="-147.001 27.0003"
 #! REQUIREMENTS_KEYWORD="none"
-#! MAX_LOG_FEATURES="200"
-#! SOURCE_ROUTING_FILE=""
+#! MULTI_WRITER_DATASET_ORDER="BY_ID"
+#! LAST_SAVE_DATE="2016-01-07T14:45:37"
+#! SHOW_INFO_NODES="true"
+#! WARN_INVALID_XFORM_PARAM="Yes"
+#! IGNORE_READER_FAILURE="No"
 #! REDIRECT_TERMINATORS="NONE"
+#! DOC_TOP_LEFT="-104.675 -978.635"
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -69,7 +67,7 @@
 #! WRITE_DEFS="true"
 #! DEFLINE_TEMPLATE="csv_append_mode INHERIT_FROM_WRITER csv_field_names INHERIT_FROM_WRITER"
 #! DEFLINE_ATTRS="true"
-#! EXPOSABLE_ATTRS="fme_sweep_angle float fme_dataset text fme_type text fme_secondary_axis float fme_color text fme_basename text fme_primary_axis float csv_type char(50) fme_text_string text fme_fill_color text fme_feature_type text fme_text_size float fme_geometry fme_char(50) fme_rotation float fme_start_angle float"
+#! EXPOSABLE_ATTRS="fme_rotation float fme_text_size float fme_secondary_axis float fme_fill_color text csv_type char(50) fme_text_string text fme_start_angle float fme_sweep_angle float fme_dataset text fme_basename text fme_primary_axis float fme_feature_type text fme_color text fme_type text fme_geometry fme_char(50)"
 #! DEFLINE_PARMS="&quot;GUI OPTIONAL CHOICE csv_append_mode INHERIT_FROM_WRITER%yes%no Append to file&quot; INHERIT_FROM_WRITER &quot;GUI OPTIONAL CHOICE csv_field_names INHERIT_FROM_WRITER%yes%no Output Field Names&quot; INHERIT_FROM_WRITER "
 #! ATTR_INDEX_TYPES=""
 #! ATTR_NAME_INVALID_CHARS="&quot;*{}$"
@@ -78,48 +76,48 @@
 #! DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #! DATASET_TYPE="FILEDIR"
 #! GENERATE_FME_BUILD_NUM="15515"
+#! FANOUT_DIRECTORY=""
+#! COORDSYS=""
 #! FANOUT="No"
 #! FANOUT_SUFFIX=""
-#! FANOUT_ID_ATTR=""
 #! FANOUT_PREFIX=""
-#! COORDSYS=""
-#! FANOUT_DIRECTORY=""
+#! FANOUT_ID_ATTR=""
 #! >
 #! <METAFILE_PARAMETER
-#! NAME="FEATURE_TYPE_DEFAULT_NAME"
-#! VALUE="File1"
+#! NAME="READER_FEATURE_TYPE_EDITING"
+#! VALUE="NO"
 #! />
 #! <METAFILE_PARAMETER
 #! NAME="DATASET_NAME"
 #! VALUE="csv file"
 #! />
 #! <METAFILE_PARAMETER
-#! NAME="READER_FEATURE_TYPE_EDITING"
-#! VALUE="NO"
-#! />
-#! <METAFILE_PARAMETER
-#! NAME="MIME_TYPE"
-#! VALUE="text/csv ADD_DISPOSITION"
-#! />
-#! <METAFILE_PARAMETER
-#! NAME="DEFAULT_ATTR_TYPE"
-#! VALUE="auto"
-#! />
-#! <METAFILE_PARAMETER
-#! NAME="FEATURE_TYPE_NAME"
-#! VALUE="CSV File"
+#! NAME="ADVANCED_PARMS"
+#! VALUE="_ENCODING CSV_OUT_ENCODING _WRITE_UTF8_BOM"
 #! />
 #! <METAFILE_PARAMETER
 #! NAME="READER_DATASET_HINT"
 #! VALUE="Select the CSV file(s)"
 #! />
 #! <METAFILE_PARAMETER
-#! NAME="ADVANCED_PARMS"
-#! VALUE="_ENCODING CSV_OUT_ENCODING _WRITE_UTF8_BOM"
+#! NAME="DEFAULT_ATTR_TYPE"
+#! VALUE="auto"
+#! />
+#! <METAFILE_PARAMETER
+#! NAME="MIME_TYPE"
+#! VALUE="text/csv ADD_DISPOSITION"
+#! />
+#! <METAFILE_PARAMETER
+#! NAME="FEATURE_TYPE_NAME"
+#! VALUE="CSV File"
 #! />
 #! <METAFILE_PARAMETER
 #! NAME="WRITER_DATASET_HINT"
 #! VALUE="Specify a folder for the CSV file"
+#! />
+#! <METAFILE_PARAMETER
+#! NAME="FEATURE_TYPE_DEFAULT_NAME"
+#! VALUE="File1"
 #! />
 #! </DATASET>
 #! </DATASETS>
@@ -395,8 +393,8 @@
 #! <FEAT_ATTRIBUTE ATTR_NAME="Successful" ATTR_TYPE="auto" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #! <FEAT_ATTRIBUTE ATTR_NAME="Failure" ATTR_TYPE="auto" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #! <FEAT_ATTRIBUTE ATTR_NAME="Cancelled" ATTR_TYPE="auto" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#! <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
 #! <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#! <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
 #! </FEATURE_TYPE>
 #! </FEATURE_TYPES>
 #! <FMESERVER>
@@ -418,7 +416,7 @@
 #! <PROPERTY
 #! CATEGORY="FMEUSERPROPDATA"
 #! NAME="HTTP_DATASET"
-#! VALUE="CSV_1"
+#! VALUE=""
 #! />
 #! <PROPERTY
 #! CATEGORY="FMEUSERPROPDATA"
@@ -428,7 +426,7 @@
 #! <PROPERTY
 #! CATEGORY="FMEUSERPROPDATA"
 #! NAME="OUTPUT_WRITER"
-#! VALUE="CSV_2"
+#! VALUE="CSV_1"
 #! />
 #! <PROPERTY
 #! CATEGORY="FMEUSERPROPDATA"
@@ -454,7 +452,7 @@
 #! <PROPERTY
 #! CATEGORY="FMEUSERPROPDATA"
 #! NAME="HTTP_DATASET"
-#! VALUE="CSV_1"
+#! VALUE=""
 #! />
 #! <PROPERTY
 #! CATEGORY="FMEUSERPROPDATA"
@@ -473,7 +471,7 @@
 #! NAME="ServerDashboard"
 #! />
 #! <ITEM
-#! NAME="WorkspaceRuns_SQLVersion.fmw"
+#! NAME="WorkspaceRuns_RESTVersion.fmw"
 #! />
 #! </FMESERVER>
 #! <GLOBAL_PARAMETERS>
@@ -481,16 +479,6 @@
 #! GUI_LINE="GUI TEXT_OR_ATTR Max_Job_Age Only include jobs from:"
 #! DEFAULT_VALUE="1 month ago"
 #! IS_STAND_ALONE="true"
-#! />
-#! <GLOBAL_PARAMETER
-#! GUI_LINE="GUI TEXT_OR_ATTR SERVER_HOST FME Server URL:"
-#! DEFAULT_VALUE=""
-#! IS_STAND_ALONE="false"
-#! />
-#! <GLOBAL_PARAMETER
-#! GUI_LINE="GUI PASSWORD_OR_ATTR SERVER_TOKEN FME Server Token:"
-#! DEFAULT_VALUE=""
-#! IS_STAND_ALONE="false"
 #! />
 #! </GLOBAL_PARAMETERS>
 #! <COMMENTS>
@@ -507,7 +495,7 @@
 #! BOUNDING_RECT="983.752 -157.255 846.262 821.38"
 #! STICKY="true"
 #! COLOUR="0.203922,0.729412,0.266667"
-#! CONTENTS="5 41 24 23 8 39 9 "
+#! CONTENTS="24 8 5 23 9 39 41 "
 #! />
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
@@ -534,15 +522,15 @@
 #! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="folderpath" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ROOTNAME_ATTR" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="DIRPATH_ATTR" PARM_VALUE="folderpath"/>
-#! <XFORM_PARM PARM_NAME="FULLNAME_ATTR" PARM_VALUE="WorkspaceName"/>
-#! <XFORM_PARM PARM_NAME="EXTENSION_ATTR" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="SRC_ATTR" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;workspacePath&lt;closeparen&gt;"/>
+#! <XFORM_PARM PARM_NAME="ROOTNAME_ATTR" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DIRPATH_ATTR" PARM_VALUE="folderpath"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="FULLNAME_ATTR" PARM_VALUE="WorkspaceName"/>
 #! <XFORM_PARM PARM_NAME="DIRNAME_ATTR" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FilenamePartExtractor"/>
+#! <XFORM_PARM PARM_NAME="EXTENSION_ATTR" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="6"
@@ -561,10 +549,10 @@
 #! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="Repository,WorkspaceName,JobStatus"/>
 #! <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper"/>
-#! <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="Repository,WorkspaceName,JobStatus"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="7"
@@ -596,14 +584,14 @@
 #! <XFORM_ATTR ATTR_NAME="FME_FAILURE" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="ABORTED" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="forSorting" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
-#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="WorkspaceName,&lt;lt&gt;b&lt;gt&gt;&lt;at&gt;Value&lt;openparen&gt;Repository&lt;closeparen&gt;&lt;lt&gt;&lt;solidus&gt;b&lt;gt&gt;&lt;lt&gt;br&lt;solidus&gt;&lt;gt&gt;&lt;at&gt;Value&lt;openparen&gt;WorkspaceName&lt;closeparen&gt;,forSorting,&lt;at&gt;LowerCase&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;WorkspaceName&lt;closeparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_2"/>
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="WorkspaceName,&lt;lt&gt;b&lt;gt&gt;&lt;at&gt;Value&lt;openparen&gt;Repository&lt;closeparen&gt;&lt;lt&gt;&lt;solidus&gt;b&lt;gt&gt;&lt;lt&gt;br&lt;solidus&gt;&lt;gt&gt;&lt;at&gt;Value&lt;openparen&gt;WorkspaceName&lt;closeparen&gt;,forSorting,&lt;at&gt;LowerCase&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;WorkspaceName&lt;closeparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #! <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_2"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="8"
@@ -629,14 +617,14 @@
 #! <XFORM_ATTR ATTR_NAME="folderpath" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_path{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="&lt;solidus&gt;"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TRIM_OPTION" PARM_VALUE="Both"/>
 #! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_path"/>
-#! <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="folderpath"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="DROP_EMPTY_PARTS" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="folderpath"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeSplitter_2"/>
-#! <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="&lt;solidus&gt;"/>
-#! <XFORM_PARM PARM_NAME="TRIM_OPTION" PARM_VALUE="Both"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="9"
@@ -664,14 +652,14 @@
 #! <XFORM_ATTR ATTR_NAME="_path{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
-#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="Repository,&lt;at&gt;Value&lt;openparen&gt;_path&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt;,JobStatus,&lt;at&gt;Value&lt;openparen&gt;status&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_3"/>
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="Repository,&lt;at&gt;Value&lt;openparen&gt;_path&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt;,JobStatus,&lt;at&gt;Value&lt;openparen&gt;status&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
 #! <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_3"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="20"
@@ -702,8 +690,8 @@
 #! <XFORM_ATTR ATTR_NAME="SUCCESS" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="FME_FAILURE" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="ABORTED" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer"/>
 #! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="SUCCESS,FME_FAILURE,ABORTED"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="49"
@@ -755,31 +743,31 @@
 #! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
-#! <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator"/>
-#! <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE="Runs"/>
 #! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Geometry - Assemble One Level"/>
-#! <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
-#! <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="No"/>
 #! <XFORM_PARM PARM_NAME="ID_SELECTION" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="JobStatus Repository WorkspaceName"/>
-#! <XFORM_PARM PARM_NAME="SUM" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="CHILD_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="ASSEMBLE_HIERARCHY_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
+#! <XFORM_PARM PARM_NAME="ASSEMBLE_HIERARCHY_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Geometry - Assemble One Level"/>
+#! <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator"/>
+#! <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="SUM" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE="Runs"/>
+#! <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="JobStatus Repository WorkspaceName"/>
+#! <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="55"
@@ -802,31 +790,31 @@
 #! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_list{}.JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_list{}.Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
-#! <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator_2"/>
-#! <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_list"/>
-#! <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Attributes Only"/>
-#! <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#! <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="Yes"/>
 #! <XFORM_PARM PARM_NAME="ID_SELECTION" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="Repository WorkspaceName"/>
-#! <XFORM_PARM PARM_NAME="SUM" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="CHILD_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="ASSEMBLE_HIERARCHY_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
-#! <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
 #! <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
+#! <XFORM_PARM PARM_NAME="ASSEMBLE_HIERARCHY_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
+#! <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Attributes Only"/>
+#! <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator_2"/>
+#! <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="SUM" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
+#! <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="Repository WorkspaceName"/>
+#! <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="59"
@@ -849,12 +837,12 @@
 #! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_list{}.Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt;.JobStatus"/>
 #! <XFORM_PARM PARM_NAME="LIST_COMPONENT_NAMES" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt;,_list&lt;opencurly&gt;&lt;closecurly&gt;,JobStatus&lt;opencurly&gt;&lt;closecurly&gt;,JobStatus&lt;opencurly&gt;&lt;closecurly&gt;"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListRenamer"/>
 #! <XFORM_PARM PARM_NAME="LIST_ACTION" PARM_VALUE="Promote"/>
 #! <XFORM_PARM PARM_NAME="LEAVE_ORIG" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt;.JobStatus"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListRenamer"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="61"
@@ -877,12 +865,12 @@
 #! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt;.Runs"/>
 #! <XFORM_PARM PARM_NAME="LIST_COMPONENT_NAMES" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt;,_list&lt;opencurly&gt;&lt;closecurly&gt;,Runs&lt;opencurly&gt;&lt;closecurly&gt;,Runs&lt;opencurly&gt;&lt;closecurly&gt;"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListRenamer_2"/>
 #! <XFORM_PARM PARM_NAME="LIST_ACTION" PARM_VALUE="Promote"/>
 #! <XFORM_PARM PARM_NAME="LEAVE_ORIG" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_list&lt;opencurly&gt;&lt;closecurly&gt;.Runs"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListRenamer_2"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="58"
@@ -893,7 +881,7 @@
 #! ORDER="5e+14"
 #! PARMS_EDITED="true"
 #! ENABLED="true"
-#! LAST_PARM_EDIT="15538"
+#! LAST_PARM_EDIT="15567"
 #! >
 #! <OUTPUT_FEAT NAME="OUTPUT"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
@@ -911,9 +899,9 @@
 #! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="Runs{}"/>
 #! <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="JobStatus{}"/>
-#! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="Runs{}"/>
 #! <XFORM_PARM PARM_NAME="SUB_DOC_NAME" PARM_VALUE="RecordBuilder"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="RecordBuilder"/>
 #! <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE=""/>
@@ -932,16 +920,16 @@
 #! <OUTPUT_FEAT NAME="CREATED"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
 #! <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="&lt;lt&gt;?xml&lt;space&gt;version=&lt;quote&gt;1.0&lt;quote&gt;&lt;space&gt;encoding=&lt;quote&gt;US_ASCII&lt;quote&gt;&lt;space&gt;standalone=&lt;quote&gt;no&lt;quote&gt;&lt;space&gt;?&lt;gt&gt;&lt;lt&gt;geometry&lt;space&gt;dimension=&lt;quote&gt;2&lt;quote&gt;&lt;gt&gt;&lt;lt&gt;null&lt;solidus&gt;&lt;gt&gt;&lt;lt&gt;&lt;solidus&gt;geometry&lt;gt&gt;"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="&lt;lt&gt;?xml&lt;space&gt;version=&lt;quote&gt;1.0&lt;quote&gt;&lt;space&gt;encoding=&lt;quote&gt;US_ASCII&lt;quote&gt;&lt;space&gt;standalone=&lt;quote&gt;no&lt;quote&gt;&lt;space&gt;?&lt;gt&gt;&lt;lt&gt;geometry&lt;space&gt;dimension=&lt;quote&gt;2&lt;quote&gt;&lt;gt&gt;&lt;lt&gt;null&lt;solidus&gt;&lt;gt&gt;&lt;lt&gt;&lt;solidus&gt;geometry&lt;gt&gt;"/>
+#! <XFORM_PARM PARM_NAME="GEOMTYPE" PARM_VALUE="Geometry Object"/>
+#! <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ATEND" PARM_VALUE="no"/>
 #! <XFORM_PARM PARM_NAME="NUM" PARM_VALUE="1"/>
-#! <XFORM_PARM PARM_NAME="CRE_ATTR" PARM_VALUE="_creation_instance"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="COORDS" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="ATEND" PARM_VALUE="no"/>
-#! <XFORM_PARM PARM_NAME="GEOMTYPE" PARM_VALUE="Geometry Object"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Creator"/>
-#! <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="CRE_ATTR" PARM_VALUE="_creation_instance"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="36"
@@ -964,13 +952,13 @@
 #! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="FEATURE_TYPE" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="MESSAGE" PARM_VALUE="Feature is:"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="MAXFEATS" PARM_VALUE="20"/>
-#! <XFORM_PARM PARM_NAME="MAXCOORDS" PARM_VALUE="20"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="MAXFEATS" PARM_VALUE="20"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JobHistoryReader__Rejected_"/>
+#! <XFORM_PARM PARM_NAME="MAXCOORDS" PARM_VALUE="20"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="39"
@@ -993,16 +981,16 @@
 #! <XFORM_ATTR ATTR_NAME="id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="workspacePath" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="CASE" PARM_VALUE="no"/>
-#! <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="workspacePath"/>
-#! <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;quote&gt;"/>
 #! <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="CASE" PARM_VALUE="no"/>
+#! <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="workspacePath"/>
+#! <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
+#! <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;quote&gt;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer"/>
+#! <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="35"
@@ -1034,19 +1022,19 @@
 #! <XFORM_ATTR ATTR_NAME="Failure" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="Cancelled" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="forSorting" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
 #! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="ABORTED,Cancelled,,SUCCESS,Successful,,FME_FAILURE,Failure,"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="47"
-#! TYPE="JobHistoryReader"
-#! VERSION="1"
+#! TYPE="SubDocumentTransformer"
+#! VERSION="0"
 #! POSITION="462.005 -367.257"
 #! BOUNDING_RECT="462.005 -367.257 -1 -1"
 #! ORDER="5e+14"
 #! PARMS_EDITED="true"
 #! ENABLED="true"
-#! LAST_PARM_EDIT="15538"
+#! LAST_PARM_EDIT="15567"
 #! >
 #! <OUTPUT_FEAT NAME="Output"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
@@ -1069,12 +1057,13 @@
 #! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SERVER_HOST" PARM_VALUE="$(SERVER_HOST)"/>
-#! <XFORM_PARM PARM_NAME="MAX_JOB_AGE" PARM_VALUE="$(Max_Job_Age)"/>
 #! <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SERVER_TOKEN" PARM_VALUE="$(SERVER_TOKEN)"/>
-#! <XFORM_PARM PARM_NAME="Server_Version" PARM_VALUE="v2"/>
+#! <XFORM_PARM PARM_NAME="SERVER_HOST" PARM_VALUE="https://demos-safe-software.fmecloud.com"/>
+#! <XFORM_PARM PARM_NAME="SERVER_TOKEN" PARM_VALUE="fme_decrypt(MDowfCN8I3xcG3GQ/TeRRUJUZ5LDPtdvpscbh7Nj9gG/INBkAGA+fkaDrNbhZtfa3rmkUUrCxKWaAFwiYsKgWJNl/0mRpxUuP+IT2c+Qhh26JEZtUWAmpuoaQCdQ3ykKWm2zaoAM5MBCGaGEuYe+6AS07/nLNRJwqp1jdwP1FgVCbXRvZtWfKjEZlNJYQ+EicVc6cv2DxCYJyTljvXwF8mKxenML6FKJiHARQCO8OMJidKKZQJP1SeYIhqB0YrtGw4cGV2ZquQKifvRjB2Tl6wBAWDmeCg+R1jvft1tR17SISyTDv77K+mV80w2aaUSgybbF7coM0BrQPcpehfjlW+YxV73+9mPMFXKQeznZ22T8MJor57O44p8U2NQCw35HiFBs0oVP9VkkY0D/WzGRevseyX1pIEWJSQSFwkJVhiyXavMDz5E5SEYgTZHfVeGBXCDuIEEbfRRkPU5yD2nw2ZAVimDRD7UQhEEY6PosGqU17He4y35WEfAggQ40+EKuupOQSZRsKotTTqlYGHJtX49ymuKqfyZzOAUSUzDMcj8gfDgzOCcuhw2sK3fJaMszm8/+BXMHAMjSY/Z8HGCGfe8YHpq8ohHQWsMcv1TgS81+QORpOi6jA6TnU7Rh4D8Tz2v/r7oxX9Ylndt6DEOHIUK5I/8MM+q3Z3hZ8rkALMz1vW1xfwicEyhFZncsIpGr1h1HzWUmHSaj+8ed6vWxxVYT359mErvdimumyG2eTSxZGSUioC0xhDEQ8HAgDWeLQYSGgdlNaONoI11F5Q+0yHW11Z7C0fYQtinSypPwcyd2/VlBlUyaY0qYt7bUJu6qtr6M/7gttNgLQJgQ4VbC++nlTlgjyJecScDlZ7YVg4Jm9PcrZOJu7LmCez64SBTDzF9Db3551w7iH3lMF4sq9ApR907uvZhD)"/>
+#! <XFORM_PARM PARM_NAME="MAX_JOB_AGE" PARM_VALUE="$(Max_Job_Age)"/>
+#! <XFORM_PARM PARM_NAME="SUB_DOC_NAME" PARM_VALUE="JobHistoryReader"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JobHistoryReader_2"/>
+#! <XFORM_PARM PARM_NAME="Server_Version" PARM_VALUE="v2"/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
@@ -1238,499 +1227,29 @@
 #! </ATTR_LINKS>
 #! <SUBDOCUMENTS>
 #! <SUBDOCUMENT
-#! NAME="RecordBuilderLoop"
-#! USAGE=""
-#! TITLE="RecordBuilderLoop"
-#! FME_PROCESS_GROUP_BY=""
-#! SUPPRESS_UPGRADE="false"
-#! CATEGORY="Lists"
-#! DOC_EXTENTS="1802 947"
-#! XFORM_DEPRECATED="No"
-#! IS_VISIBLE="false"
-#! LEGAL_TERMS_CONDITIONS=""
-#! FME_PROCESS_GROUPS_ORDERED="No"
-#! DOC_DYNAMIC_INPUT_ATTRS="1"
-#! FME_DOCUMENT_GUID=""
-#! VIEW_POSITION="313 0"
-#! HISTORY=""
-#! REQUIREMENTS=""
-#! DESCRIPTION="Indexes lists from RecordBuilder and creates new attributes from field name and value pairs. Input is a field{} list and a value{} list. Output are new fields as follows:&#10;&lt;field1&gt;=&lt;value1&gt;&#10;&lt;field2&gt;=&lt;value2&gt;&#10;etc&#10;"
-#! FME_DOCUMENT_PRIORGUID=""
-#! FME_PROCESS_COUNT="NO_PARALLELISM"
-#! ZOOM_SCALE="100"
-#! DOC_TOP_LEFT="347 -1030"
-#! REQUIREMENTS_KEYWORD=""
-#! >
-#! <GLOBAL_PARAMETERS>
-#! <GLOBAL_PARAMETER
-#! GUI_LINE="GUI LIST_NAME LIST_ATTR &quot; &quot; List Fields:"
-#! DEFAULT_VALUE="_fields{}"
-#! IS_STAND_ALONE="false"
-#! />
-#! <GLOBAL_PARAMETER
-#! GUI_LINE="GUI INT_OR_ATTR INDEX List Index:"
-#! DEFAULT_VALUE="@Value(currentIndex)"
-#! IS_STAND_ALONE="false"
-#! />
-#! <GLOBAL_PARAMETER
-#! GUI_LINE="GUI LIST_NAME SRC_LIST &quot; &quot; Source List Values:"
-#! DEFAULT_VALUE="values{}"
-#! IS_STAND_ALONE="false"
-#! />
-#! <GLOBAL_PARAMETER
-#! GUI_LINE="GUI TEXT_OR_ATTR currentIndex currentIndex:"
-#! DEFAULT_VALUE="@Value(currentIndex)"
-#! IS_STAND_ALONE="false"
-#! />
-#! </GLOBAL_PARAMETERS>
-#! <COMMENTS>
-#! </COMMENTS>
-#! <CONSTANTS>
-#! </CONSTANTS>
-#! <BOOKMARKS>
-#! </BOOKMARKS>
-#! <TRANSFORMERS>
-#! <TRANSFORMER
-#! IDENTIFIER="1"
-#! TYPE="AttributeExposer"
-#! VERSION="0"
-#! POSITION="958 -558"
-#! BOUNDING_RECT="958 -558 0 0"
-#! ORDER="10"
-#! PARMS_EDITED="true"
-#! ENABLED="true"
-#! LAST_PARM_EDIT="12229"
-#! >
-#! <OUTPUT_FEAT NAME="OUTPUT"/>
-#! <FEAT_COLLAPSED COLLAPSED="0"/>
-#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer_3"/>
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_fields{},_fields,_element_count,_values{},_values"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#! IDENTIFIER="2"
-#! TYPE="ListIndexer"
-#! VERSION="0"
-#! POSITION="949 -805"
-#! BOUNDING_RECT="949 -805 0 0"
-#! ORDER="11"
-#! PARMS_EDITED="true"
-#! ENABLED="true"
-#! LAST_PARM_EDIT="12229"
-#! >
-#! <OUTPUT_FEAT NAME="OUTPUT"/>
-#! <FEAT_COLLAPSED COLLAPSED="0"/>
-#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="_fields{}"/>
-#! <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="$(INDEX)"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListIndexer_27"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#! IDENTIFIER="3"
-#! TYPE="Tester"
-#! VERSION="1"
-#! POSITION="1562 -824"
-#! BOUNDING_RECT="1562 -824 0 0"
-#! ORDER="12"
-#! PARMS_EDITED="true"
-#! ENABLED="true"
-#! LAST_PARM_EDIT="12229"
-#! >
-#! <OUTPUT_FEAT NAME="PASSED"/>
-#! <FEAT_COLLAPSED COLLAPSED="0"/>
-#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <OUTPUT_FEAT NAME="FAILED"/>
-#! <FEAT_COLLAPSED COLLAPSED="1"/>
-#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST @Value(currentIndex) &lt; @Value(_element_count)"/>
-#! <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="&amp;currentIndex,&lt;,&amp;_element_count"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_5"/>
-#! <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#! <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#! IDENTIFIER="4"
-#! TYPE="ExpressionEvaluator"
-#! VERSION="1"
-#! POSITION="1538 -545"
-#! BOUNDING_RECT="1538 -545 0 0"
-#! ORDER="13"
-#! PARMS_EDITED="true"
-#! ENABLED="true"
-#! LAST_PARM_EDIT="12229"
-#! >
-#! <OUTPUT_FEAT NAME="OUTPUT"/>
-#! <FEAT_COLLAPSED COLLAPSED="0"/>
-#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="currentIndex"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="EXPRESSION" PARM_VALUE="$(currentIndex)+1"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ExpressionEvaluator"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#! IDENTIFIER="5"
-#! TYPE="TCLCaller"
-#! VERSION="3"
-#! POSITION="1520 -277"
-#! BOUNDING_RECT="1520 -277 0 0"
-#! ORDER="14"
-#! PARMS_EDITED="true"
-#! ENABLED="true"
-#! LAST_PARM_EDIT="12229"
-#! >
-#! <OUTPUT_FEAT NAME="OUTPUT"/>
-#! <FEAT_COLLAPSED COLLAPSED="0"/>
-#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="_result"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SRCFILE" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="NEW_ATTRIBUTES" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TCL_AttributeAdd"/>
-#! <XFORM_PARM PARM_NAME="TCLPROG" PARM_VALUE="attrAdd &amp;_fields &amp;_values"/>
-#! <XFORM_PARM PARM_NAME="SRC" PARM_VALUE="proc&lt;space&gt;attrAdd&lt;space&gt;&lt;opencurly&gt;attr&lt;space&gt;value&lt;closecurly&gt;&lt;space&gt;&lt;opencurly&gt;&lt;space&gt;&lt;space&gt;FME_SetAttribute&lt;space&gt;&lt;dollar&gt;attr&lt;space&gt;&lt;dollar&gt;value&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;closecurly&gt;"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#! IDENTIFIER="6"
-#! TYPE="ListCopier"
-#! VERSION="0"
-#! POSITION="925 -83"
-#! BOUNDING_RECT="925 -83 0 0"
-#! ORDER="15"
-#! PARMS_EDITED="true"
-#! ENABLED="true"
-#! LAST_PARM_EDIT="12229"
-#! >
-#! <OUTPUT_FEAT NAME="OUTPUT"/>
-#! <FEAT_COLLAPSED COLLAPSED="0"/>
-#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="DEST_LIST" PARM_VALUE="_fields"/>
-#! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="$(LIST_ATTR)"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListCopier_3"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#! IDENTIFIER="7"
-#! TYPE="ListCopier"
-#! VERSION="0"
-#! POSITION="925 -330"
-#! BOUNDING_RECT="925 -330 0 0"
-#! ORDER="16"
-#! PARMS_EDITED="true"
-#! ENABLED="true"
-#! LAST_PARM_EDIT="12229"
-#! >
-#! <OUTPUT_FEAT NAME="OUTPUT"/>
-#! <FEAT_COLLAPSED COLLAPSED="0"/>
-#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="DEST_LIST" PARM_VALUE="_values"/>
-#! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="$(SRC_LIST)"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListCopier_2"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#! IDENTIFIER="8"
-#! TYPE="ListIndexer"
-#! VERSION="0"
-#! POSITION="986 -1030"
-#! BOUNDING_RECT="986 -1030 0 0"
-#! ORDER="17"
-#! PARMS_EDITED="true"
-#! ENABLED="true"
-#! LAST_PARM_EDIT="12229"
-#! >
-#! <OUTPUT_FEAT NAME="OUTPUT"/>
-#! <FEAT_COLLAPSED COLLAPSED="0"/>
-#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="_values{}"/>
-#! <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="$(INDEX)"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListIndexer_2"/>
-#! </TRANSFORMER>
-#! </TRANSFORMERS>
-#! <SUBDOCUMENT_IOS>
-#! <SUBDOCUMENT_IO
-#! IDENTIFIER="9"
-#! NAME="OUTPUT"
-#! POSITION="2134 -992"
-#! BOUNDING_RECT="2134 -992 0 0"
-#! COLLAPSED="false"
-#! IS_SOURCE="false"
-#! ATTR_MODE="0"
-#! >
-#! </SUBDOCUMENT_IO>
-#! <SUBDOCUMENT_IO
-#! IDENTIFIER="10"
-#! NAME="INPUT"
-#! POSITION="347 -315"
-#! BOUNDING_RECT="347 -315 0 0"
-#! COLLAPSED="false"
-#! PUBLISHED="true"
-#! IS_SOURCE="true"
-#! ATTR_MODE="0"
-#! >
-#! </SUBDOCUMENT_IO>
-#! <SUBDOCUMENT_IO
-#! IDENTIFIER="11"
-#! NAME="INPUT"
-#! POSITION="2149 -792"
-#! BOUNDING_RECT="2149 -792 0 0"
-#! COLLAPSED="false"
-#! IS_SOURCE="loop"
-#! ATTR_MODE="0"
-#! >
-#! </SUBDOCUMENT_IO>
-#! </SUBDOCUMENT_IOS>
-#! <FEAT_LINKS>
-#! <FEAT_LINK
-#! IDENTIFIER="12"
-#! SOURCE_NODE="4"
-#! TARGET_NODE="3"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="13"
-#! SOURCE_NODE="1"
-#! TARGET_NODE="2"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="14"
-#! SOURCE_NODE="5"
-#! TARGET_NODE="4"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="15"
-#! SOURCE_NODE="10"
-#! TARGET_NODE="6"
-#! SOURCE_PORT_DESC="0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="16"
-#! SOURCE_NODE="3"
-#! TARGET_NODE="9"
-#! SOURCE_PORT_DESC="fo 1"
-#! TARGET_PORT_DESC="0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="17"
-#! SOURCE_NODE="6"
-#! TARGET_NODE="7"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="18"
-#! SOURCE_NODE="7"
-#! TARGET_NODE="1"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="19"
-#! SOURCE_NODE="8"
-#! TARGET_NODE="5"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="20"
-#! SOURCE_NODE="2"
-#! TARGET_NODE="8"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="21"
-#! SOURCE_NODE="3"
-#! TARGET_NODE="11"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! </FEAT_LINKS>
-#! <BREAKPOINTS>
-#! </BREAKPOINTS>
-#! <ATTR_LINKS>
-#! </ATTR_LINKS>
-#! </SUBDOCUMENT>
-#! <SUBDOCUMENT
 #! NAME="RecordBuilder"
+#! REQUIREMENTS_KEYWORD=""
+#! IS_VISIBLE="false"
+#! SUPPRESS_UPGRADE="false"
+#! XFORM_DEPRECATED="No"
+#! FME_PROCESS_GROUP_BY=""
+#! DOC_DYNAMIC_INPUT_ATTRS="0"
+#! FME_DOCUMENT_PRIORGUID=""
+#! FME_DOCUMENT_GUID=""
 #! USAGE=""
 #! TITLE="RecordBuilder"
-#! FME_PROCESS_GROUP_BY=""
-#! SUPPRESS_UPGRADE="false"
+#! ZOOM_SCALE="100"
+#! FME_PROCESS_COUNT="NO_PARALLELISM"
 #! CATEGORY="Lists"
 #! DOC_EXTENTS="1953 786"
-#! XFORM_DEPRECATED="No"
-#! IS_VISIBLE="false"
-#! LEGAL_TERMS_CONDITIONS=""
-#! GUID="0E753429-6218-46B8-A8DC-86736E9E1CC0"
-#! FME_PROCESS_GROUPS_ORDERED="No"
-#! DOC_DYNAMIC_INPUT_ATTRS="0"
-#! FME_DOCUMENT_GUID=""
-#! VIEW_POSITION="313 0"
-#! HISTORY=""
-#! REQUIREMENTS=""
-#! DESCRIPTION="Creates new attributes from field name and value pairs. Input is a field{} list and a value{} list. Output are new fields as follows:&#10;&lt;field1&gt;=&lt;value1&gt;&#10;&lt;field2&gt;=&lt;value2&gt;&#10;etc&#10;Depends on RecordBuilderLoop to iterate through the field{} and value{} lists.&#10;"
-#! FME_DOCUMENT_PRIORGUID=""
-#! FME_PROCESS_COUNT="NO_PARALLELISM"
-#! ZOOM_SCALE="100"
 #! DOC_TOP_LEFT="758 -849"
-#! REQUIREMENTS_KEYWORD=""
+#! GUID="0E753429-6218-46B8-A8DC-86736E9E1CC0"
+#! DESCRIPTION="Creates new attributes from field name and value pairs. Input is a field{} list and a value{} list. Output are new fields as follows:&#10;&lt;field1&gt;=&lt;value1&gt;&#10;&lt;field2&gt;=&lt;value2&gt;&#10;etc&#10;Depends on RecordBuilderLoop to iterate through the field{} and value{} lists.&#10;"
+#! FME_PROCESS_GROUPS_ORDERED="No"
+#! VIEW_POSITION="313 0"
+#! REQUIREMENTS=""
+#! HISTORY=""
+#! LEGAL_TERMS_CONDITIONS=""
 #! >
 #! <GLOBAL_PARAMETERS>
 #! <GLOBAL_PARAMETER
@@ -1785,9 +1304,9 @@
 #! <OUTPUT_FEAT NAME="OUTPUT"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="DEST_LIST" PARM_VALUE="_fields"/>
 #! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="$(LIST_ATTR)"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DEST_LIST" PARM_VALUE="_fields"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListCopier_3"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -1804,9 +1323,9 @@
 #! <OUTPUT_FEAT NAME="OUTPUT"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="DEST_LIST" PARM_VALUE="_values"/>
 #! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="$(SRC_LIST)"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DEST_LIST" PARM_VALUE="_values"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListCopier_2"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -1826,8 +1345,8 @@
 #! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer_3"/>
 #! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_fields{},_fields,_values{},_values"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer_3"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="4"
@@ -1847,9 +1366,9 @@
 #! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="CNT_ATTR" PARM_VALUE="_element_count"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_fields{}"/>
-#! <XFORM_PARM PARM_NAME="CNT_ATTR" PARM_VALUE="_element_count"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListElementCounter"/>
 #! </TRANSFORMER>
@@ -1872,8 +1391,8 @@
 #! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_3"/>
 #! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="currentIndex,0"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_3"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="6"
@@ -1884,7 +1403,7 @@
 #! ORDER="14"
 #! PARMS_EDITED="false"
 #! ENABLED="true"
-#! LAST_PARM_EDIT="15538"
+#! LAST_PARM_EDIT="15567"
 #! >
 #! <OUTPUT_FEAT NAME="OUTPUT"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
@@ -1896,10 +1415,10 @@
 #! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="_values{}"/>
+#! <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="@Value(currentIndex)"/>
 #! <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="_fields{}"/>
-#! <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="@Value(currentIndex)"/>
-#! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="_values{}"/>
 #! <XFORM_PARM PARM_NAME="SUB_DOC_NAME" PARM_VALUE="RecordBuilderLoop"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="RecordBuilderLoop"/>
 #! <XFORM_PARM PARM_NAME="currentIndex" PARM_VALUE="@Value(currentIndex)"/>
@@ -2065,6 +1584,1197 @@
 #! <ATTR_LINKS>
 #! </ATTR_LINKS>
 #! </SUBDOCUMENT>
+#! <SUBDOCUMENT
+#! NAME="JobHistoryReader"
+#! REQUIREMENTS_KEYWORD=""
+#! IS_VISIBLE="false"
+#! SUPPRESS_UPGRADE="false"
+#! XFORM_DEPRECATED="No"
+#! FME_PROCESS_GROUP_BY=""
+#! DOC_DYNAMIC_INPUT_ATTRS="0"
+#! FME_DOCUMENT_PRIORGUID="6b5bf4ae-6305-11e5-a64d-60030894943e,33f516f8-630a-11e5-9668-60030894943e,64d45e6e-630a-11e5-80a0-60030894943e,345c26bc-630b-11e5-a1bd-60030894943e,6e8f4ecc-630b-11e5-bcd0-60030894943e,1bedfeae-6318-11e5-8fc5-60030894943e,371d5e20-63dd-11e5-9dfe-60030894943e"
+#! FME_DOCUMENT_GUID="205223e6-63de-11e5-ba2b-60030894943e"
+#! USAGE=""
+#! TITLE="JobHistoryReader"
+#! ZOOM_SCALE="101"
+#! FME_PROCESS_COUNT="NO_PARALLELISM"
+#! CATEGORY="FMEServer"
+#! DOC_EXTENTS="4480.28 807.508"
+#! DOC_TOP_LEFT="-882.251 -807.508"
+#! GUID="205223e6-63de-11e5-ba2b-60030894943e"
+#! DESCRIPTION=""
+#! FME_PROCESS_GROUPS_ORDERED="No"
+#! VIEW_POSITION="-900.009 398.024"
+#! REQUIREMENTS=""
+#! HISTORY=""
+#! LEGAL_TERMS_CONDITIONS=""
+#! >
+#! <GLOBAL_PARAMETERS>
+#! <GLOBAL_PARAMETER
+#! GUI_LINE="GUI TEXT_OR_ATTR SERVER_HOST FME Server URL:"
+#! DEFAULT_VALUE=""
+#! IS_STAND_ALONE="true"
+#! />
+#! <GLOBAL_PARAMETER
+#! GUI_LINE="GUI PASSWORD_OR_ATTR SERVER_TOKEN FME Server Token:"
+#! DEFAULT_VALUE=""
+#! IS_STAND_ALONE="true"
+#! />
+#! <GLOBAL_PARAMETER
+#! GUI_LINE="GUI OPTIONAL TEXT_EDIT_OR_NUM_MULTI_FEATURE_OR_ATTR MAX_JOB_AGE &quot; &quot; Maximum Job Age:"
+#! DEFAULT_VALUE="1&lt;space&gt;month&lt;space&gt;ago"
+#! IS_STAND_ALONE="false"
+#! />
+#! <GLOBAL_PARAMETER
+#! GUI_LINE="GUI LOOKUP_CHOICE_OR_ATTR Server_Version FME&lt;space&gt;Server&lt;space&gt;2015&lt;space&gt;or&lt;space&gt;older,v2%FME&lt;space&gt;Server&lt;space&gt;2016&lt;space&gt;or&lt;space&gt;newer,v3 Server Version:"
+#! DEFAULT_VALUE="v3"
+#! IS_STAND_ALONE="true"
+#! />
+#! </GLOBAL_PARAMETERS>
+#! <COMMENTS>
+#! </COMMENTS>
+#! <CONSTANTS>
+#! </CONSTANTS>
+#! <BOOKMARKS>
+#! </BOOKMARKS>
+#! <TRANSFORMERS>
+#! <TRANSFORMER
+#! IDENTIFIER="1"
+#! TYPE="HTTPCaller"
+#! VERSION="0"
+#! POSITION="337.755 -213.002"
+#! BOUNDING_RECT="337.755 -213.002 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="Output"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <OUTPUT_FEAT NAME="&lt;Rejected&gt;"/>
+#! <FEAT_COLLAPSED COLLAPSED="1"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_error" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_PARM PARM_NAME="AUTH_NAMED_CONNECTION" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="HTTP_METHOD" PARM_VALUE="GET"/>
+#! <XFORM_PARM PARM_NAME="CUSTOM_HEADERS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#! <XFORM_PARM PARM_NAME="MULTIPARTS" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="OUTPUT_FILENAME" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="HTTPURL_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TARGET_ATTR_ENCODING" PARM_VALUE="auto-detect"/>
+#! <XFORM_PARM PARM_NAME="RESPONSE_HEADER_LIST_ATTR" PARM_VALUE="_headers"/>
+#! <XFORM_PARM PARM_NAME="UPLOAD_FILE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="SAVE_MULTI" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="AUTH_PASSWORD" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="OUTPUT_DIRNAME" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="UPLOAD_BODY" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ADVANCED_REQUEST_PARAMETERS" PARM_VALUE="NO"/>
+#! <XFORM_PARM PARM_NAME="HTTP_RESPONSE_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="UPLOAD_CONTENT_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="MULTIPART_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="AUTH_USERNAME" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="USE_COOKIES" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="FOLLOW_REDIRECTS" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="TARGET_URL" PARM_VALUE="$(SERVER_HOST)&lt;solidus&gt;fmerest&lt;solidus&gt;$(Server_Version)&lt;solidus&gt;transformations&lt;solidus&gt;jobs&lt;solidus&gt;completed"/>
+#! <XFORM_PARM PARM_NAME="SAVE_FILE" PARM_VALUE="Attribute"/>
+#! <XFORM_PARM PARM_NAME="AUTH_METHOD" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="TARGET_ATTR" PARM_VALUE="_response_body"/>
+#! <XFORM_PARM PARM_NAME="ADVANCED_RESPONSE_PARAMETERS" PARM_VALUE="NO"/>
+#! <XFORM_PARM PARM_NAME="CONNECTION_TIMEOUT_LENGTH" PARM_VALUE="60"/>
+#! <XFORM_PARM PARM_NAME="UPLOAD_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="UPLOAD_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#! <XFORM_PARM PARM_NAME="RESPONSE_FILE_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="ADDITIONAL_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#! <XFORM_PARM PARM_NAME="CUSTOM_HEADERS" PARM_VALUE="Authorization;fmetoken&lt;space&gt;token=$(SERVER_TOKEN)"/>
+#! <XFORM_PARM PARM_NAME="FILE_PATH_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ADDITIONAL_URL_PARAMETERS" PARM_VALUE="limit;1000 offset;&lt;at&gt;Value&lt;openparen&gt;_offset&lt;closeparen&gt; detail;high"/>
+#! <XFORM_PARM PARM_NAME="TRANSFER_TIMEOUT_LENGTH" PARM_VALUE="90"/>
+#! <XFORM_PARM PARM_NAME="ERROR_ATTR" PARM_VALUE="_error"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="HTTPCaller"/>
+#! <XFORM_PARM PARM_NAME="STATUS_CODE_ATTR" PARM_VALUE="_http_status_code"/>
+#! <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE="NO"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="2"
+#! TYPE="JSONFragmenter"
+#! VERSION="3"
+#! POSITION="895.614 -213.002"
+#! BOUNDING_RECT="895.614 -213.002 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="EXPLODED"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.statusMessage" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="request.workspacePath" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="JSON_QUERY" PARM_VALUE="json[*]"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="JSON_ATTR" PARM_VALUE="_response_body"/>
+#! <XFORM_PARM PARM_NAME="EXTRACT_ATTR" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="PREF_STRING" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="RECURSIVE" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="EXPLODE_FORMAT" PARM_VALUE="JSON"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JSONFragmenter"/>
+#! <XFORM_PARM PARM_NAME="NEW_ATTRIBUTES" PARM_VALUE="timeFinished timeStarted status result.statusMessage result.id request.workspacePath engineName"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="3"
+#! TYPE="AttributeCreator"
+#! VERSION="7"
+#! POSITION="-283.922 -151.502"
+#! BOUNDING_RECT="-283.922 -151.502 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_offset,0,_max_job_age,$(MAX_JOB_AGE)"/>
+#! <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#! <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
+#! <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
+#! <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="4"
+#! TYPE="AttributeCreator"
+#! VERSION="7"
+#! POSITION="-251.248 -438.504"
+#! BOUNDING_RECT="-251.248 -438.504 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_offset,&lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_offset&lt;closeparen&gt;+1000&lt;closeparen&gt;"/>
+#! <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#! <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
+#! <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_2"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="5"
+#! TYPE="AttributeExposer"
+#! VERSION="0"
+#! POSITION="-801.991 -795.077"
+#! BOUNDING_RECT="-801.991 -795.077 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_offset"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="6"
+#! TYPE="AttributeKeeper"
+#! VERSION="3"
+#! POSITION="2448.02 -807.508"
+#! BOUNDING_RECT="2448.02 -807.508 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="_offset,_max_job_age"/>
+#! <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="7"
+#! TYPE="Tester"
+#! VERSION="2"
+#! POSITION="1979.76 -213.002"
+#! BOUNDING_RECT="1979.76 -213.002 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="PASSED"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.statusMessage" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="request.workspacePath" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <OUTPUT_FEAT NAME="FAILED"/>
+#! <FEAT_COLLAPSED COLLAPSED="1"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="json_type" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="json_index" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="result.statusMessage" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="result.id" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="request.workspacePath" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
+#! <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#! <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;timeFinished&lt;closeparen&gt; &gt;= &lt;at&gt;Value&lt;openparen&gt;_max_job_age&lt;closeparen&gt;"/>
+#! <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester"/>
+#! <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="8"
+#! TYPE="DateFormatter"
+#! VERSION="4"
+#! POSITION="1423.01 0.000130021"
+#! BOUNDING_RECT="1423.01 0.000130021 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.statusMessage" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="request.workspacePath" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DATE_ATTR" PARM_VALUE="_max_job_age"/>
+#! <XFORM_PARM PARM_NAME="FMT" PARM_VALUE="FME Date/Time (%Y%m%d%H%M%S)"/>
+#! <XFORM_PARM PARM_NAME="SRCFMT" PARM_VALUE="Unknown - Automatic Detection"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="DateFormatter"/>
+#! <XFORM_PARM PARM_NAME="INVALID_DATE_VALUE" PARM_VALUE="_FME_NO_OP_"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="9"
+#! TYPE="DateFormatter"
+#! VERSION="4"
+#! POSITION="1423.01 -213.002"
+#! BOUNDING_RECT="1423.01 -213.002 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.statusMessage" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="request.workspacePath" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DATE_ATTR" PARM_VALUE="timeFinished"/>
+#! <XFORM_PARM PARM_NAME="FMT" PARM_VALUE="FME Date/Time (%Y%m%d%H%M%S)"/>
+#! <XFORM_PARM PARM_NAME="SRCFMT" PARM_VALUE="Unknown - Automatic Detection"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="DateFormatter_2"/>
+#! <XFORM_PARM PARM_NAME="INVALID_DATE_VALUE" PARM_VALUE="_FME_NO_OP_"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="10"
+#! TYPE="Sampler"
+#! VERSION="1"
+#! POSITION="2424.26 -552.633"
+#! BOUNDING_RECT="2424.26 -552.633 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="SAMPLED"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.statusMessage" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="result.id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="request.workspacePath" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <OUTPUT_FEAT NAME="NOT_SAMPLED"/>
+#! <FEAT_COLLAPSED COLLAPSED="1"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="json_type" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="json_index" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="result.statusMessage" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="result.id" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="request.workspacePath" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="RATE" PARM_VALUE="1000"/>
+#! <XFORM_PARM PARM_NAME="SAMPLE_TYPE_LONG" PARM_VALUE="Every Nth Feature"/>
+#! <XFORM_PARM PARM_NAME="FME_PROCESS_COUNTDISP" PARM_VALUE="No Parallelism"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Sampler"/>
+#! <XFORM_PARM PARM_NAME="FME_PROCESS_GROUPS_ORDERED" PARM_VALUE="No"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="11"
+#! TYPE="BulkAttributeRenamer"
+#! VERSION="2"
+#! POSITION="2491.74 -106.84"
+#! BOUNDING_RECT="2491.74 -106.84 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="statusMessage" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="request.workspacePath" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PATTERN_ACTION_DISP" PARM_VALUE="Remove Prefix String"/>
+#! <XFORM_PARM PARM_NAME="CASE_CHANGE_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTRS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="REPLACE_PATTERN" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="CASE_DISP" PARM_VALUE="yes"/>
+#! <XFORM_PARM PARM_NAME="ATTRCHOICE" PARM_VALUE="All Attributes"/>
+#! <XFORM_PARM PARM_NAME="REPLACE_STR" PARM_VALUE="result."/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="BulkAttributeRenamer"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="12"
+#! TYPE="BulkAttributeRenamer"
+#! VERSION="2"
+#! POSITION="2491.74 -273.002"
+#! BOUNDING_RECT="2491.74 -273.002 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15538"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="_offset" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_max_job_age" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_headers{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_response_body" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="json_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="statusMessage" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="id" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="workspacePath" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="engineName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PATTERN_ACTION_DISP" PARM_VALUE="Remove Prefix String"/>
+#! <XFORM_PARM PARM_NAME="CASE_CHANGE_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTRS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="REPLACE_PATTERN" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="CASE_DISP" PARM_VALUE="yes"/>
+#! <XFORM_PARM PARM_NAME="ATTRCHOICE" PARM_VALUE="All Attributes"/>
+#! <XFORM_PARM PARM_NAME="REPLACE_STR" PARM_VALUE="request."/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="BulkAttributeRenamer_2"/>
+#! </TRANSFORMER>
+#! </TRANSFORMERS>
+#! <SUBDOCUMENT_IOS>
+#! <SUBDOCUMENT_IO
+#! IDENTIFIER="13"
+#! NAME="&lt;Rejected&gt;"
+#! POSITION="364.755 -662.006"
+#! BOUNDING_RECT="364.755 -662.006 -1 -1"
+#! COLLAPSED="true"
+#! IS_SOURCE="false"
+#! ATTR_MODE="0"
+#! >
+#! </SUBDOCUMENT_IO>
+#! <SUBDOCUMENT_IO
+#! IDENTIFIER="14"
+#! NAME="LoopHere"
+#! POSITION="3073.44 -591.506"
+#! BOUNDING_RECT="3073.44 -591.506 524.588 71"
+#! COLLAPSED="true"
+#! IS_SOURCE="loop"
+#! ATTR_MODE="0"
+#! >
+#! </SUBDOCUMENT_IO>
+#! <SUBDOCUMENT_IO
+#! IDENTIFIER="15"
+#! NAME="LoopHere"
+#! POSITION="-882.251 -438.504"
+#! BOUNDING_RECT="-882.251 -438.504 -1 -1"
+#! COLLAPSED="true"
+#! PUBLISHED="false"
+#! IS_SOURCE="true"
+#! ATTR_MODE="0"
+#! >
+#! </SUBDOCUMENT_IO>
+#! <SUBDOCUMENT_IO
+#! IDENTIFIER="16"
+#! NAME="Output"
+#! POSITION="3073.44 -247.215"
+#! BOUNDING_RECT="3073.44 -247.215 -1 -1"
+#! COLLAPSED="true"
+#! IS_SOURCE="false"
+#! ATTR_MODE="1"
+#! >
+#! <XFORM_ATTR ATTR_NAME="engineName" />
+#! <XFORM_ATTR ATTR_NAME="id" />
+#! <XFORM_ATTR ATTR_NAME="status" />
+#! <XFORM_ATTR ATTR_NAME="statusMessage" />
+#! <XFORM_ATTR ATTR_NAME="timeFinished" />
+#! <XFORM_ATTR ATTR_NAME="timeStarted" />
+#! <XFORM_ATTR ATTR_NAME="workspacePath" />
+#! </SUBDOCUMENT_IO>
+#! <SUBDOCUMENT_IO
+#! IDENTIFIER="17"
+#! NAME="Input"
+#! POSITION="-882.251 -151.502"
+#! BOUNDING_RECT="-882.251 -151.502 -1 -1"
+#! COLLAPSED="true"
+#! PUBLISHED="true"
+#! IS_SOURCE="true"
+#! ATTR_MODE="0"
+#! >
+#! </SUBDOCUMENT_IO>
+#! </SUBDOCUMENT_IOS>
+#! <FEAT_LINKS>
+#! <FEAT_LINK
+#! IDENTIFIER="18"
+#! SOURCE_NODE="1"
+#! TARGET_NODE="13"
+#! SOURCE_PORT_DESC="fo 1"
+#! TARGET_PORT_DESC="0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="19"
+#! SOURCE_NODE="1"
+#! TARGET_NODE="2"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="20"
+#! SOURCE_NODE="3"
+#! TARGET_NODE="1"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="21"
+#! SOURCE_NODE="15"
+#! TARGET_NODE="5"
+#! SOURCE_PORT_DESC="0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="22"
+#! SOURCE_NODE="5"
+#! TARGET_NODE="4"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="23"
+#! SOURCE_NODE="10"
+#! TARGET_NODE="6"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="24"
+#! SOURCE_NODE="6"
+#! TARGET_NODE="14"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="25"
+#! SOURCE_NODE="4"
+#! TARGET_NODE="1"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="26"
+#! SOURCE_NODE="8"
+#! TARGET_NODE="9"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="27"
+#! SOURCE_NODE="9"
+#! TARGET_NODE="7"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="28"
+#! SOURCE_NODE="7"
+#! TARGET_NODE="10"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="29"
+#! SOURCE_NODE="2"
+#! TARGET_NODE="8"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="30"
+#! SOURCE_NODE="7"
+#! TARGET_NODE="11"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="31"
+#! SOURCE_NODE="12"
+#! TARGET_NODE="16"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="32"
+#! SOURCE_NODE="11"
+#! TARGET_NODE="12"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="33"
+#! SOURCE_NODE="17"
+#! TARGET_NODE="3"
+#! SOURCE_PORT_DESC="0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! </FEAT_LINKS>
+#! <BREAKPOINTS>
+#! </BREAKPOINTS>
+#! <ATTR_LINKS>
+#! </ATTR_LINKS>
+#! </SUBDOCUMENT>
+#! <SUBDOCUMENT
+#! NAME="RecordBuilderLoop"
+#! REQUIREMENTS_KEYWORD=""
+#! IS_VISIBLE="false"
+#! SUPPRESS_UPGRADE="false"
+#! XFORM_DEPRECATED="No"
+#! FME_PROCESS_GROUP_BY=""
+#! DOC_DYNAMIC_INPUT_ATTRS="1"
+#! FME_DOCUMENT_PRIORGUID=""
+#! USAGE=""
+#! FME_DOCUMENT_GUID=""
+#! TITLE="RecordBuilderLoop"
+#! ZOOM_SCALE="100"
+#! FME_PROCESS_COUNT="NO_PARALLELISM"
+#! CATEGORY="Lists"
+#! DOC_EXTENTS="1802 947"
+#! DOC_TOP_LEFT="347 -1030"
+#! DESCRIPTION="Indexes lists from RecordBuilder and creates new attributes from field name and value pairs. Input is a field{} list and a value{} list. Output are new fields as follows:&#10;&lt;field1&gt;=&lt;value1&gt;&#10;&lt;field2&gt;=&lt;value2&gt;&#10;etc&#10;"
+#! FME_PROCESS_GROUPS_ORDERED="No"
+#! VIEW_POSITION="313 0"
+#! REQUIREMENTS=""
+#! HISTORY=""
+#! LEGAL_TERMS_CONDITIONS=""
+#! >
+#! <GLOBAL_PARAMETERS>
+#! <GLOBAL_PARAMETER
+#! GUI_LINE="GUI LIST_NAME LIST_ATTR &quot; &quot; List Fields:"
+#! DEFAULT_VALUE="_fields{}"
+#! IS_STAND_ALONE="false"
+#! />
+#! <GLOBAL_PARAMETER
+#! GUI_LINE="GUI INT_OR_ATTR INDEX List Index:"
+#! DEFAULT_VALUE="@Value(currentIndex)"
+#! IS_STAND_ALONE="false"
+#! />
+#! <GLOBAL_PARAMETER
+#! GUI_LINE="GUI LIST_NAME SRC_LIST &quot; &quot; Source List Values:"
+#! DEFAULT_VALUE="values{}"
+#! IS_STAND_ALONE="false"
+#! />
+#! <GLOBAL_PARAMETER
+#! GUI_LINE="GUI TEXT_OR_ATTR currentIndex currentIndex:"
+#! DEFAULT_VALUE="@Value(currentIndex)"
+#! IS_STAND_ALONE="false"
+#! />
+#! </GLOBAL_PARAMETERS>
+#! <COMMENTS>
+#! </COMMENTS>
+#! <CONSTANTS>
+#! </CONSTANTS>
+#! <BOOKMARKS>
+#! </BOOKMARKS>
+#! <TRANSFORMERS>
+#! <TRANSFORMER
+#! IDENTIFIER="1"
+#! TYPE="AttributeExposer"
+#! VERSION="0"
+#! POSITION="958 -558"
+#! BOUNDING_RECT="958 -558 0 0"
+#! ORDER="10"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="12229"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_fields{},_fields,_element_count,_values{},_values"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer_3"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="2"
+#! TYPE="ListIndexer"
+#! VERSION="0"
+#! POSITION="949 -805"
+#! BOUNDING_RECT="949 -805 0 0"
+#! ORDER="11"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="12229"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="$(INDEX)"/>
+#! <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="_fields{}"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListIndexer_27"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="3"
+#! TYPE="Tester"
+#! VERSION="1"
+#! POSITION="1562 -824"
+#! BOUNDING_RECT="1562 -824 0 0"
+#! ORDER="12"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="12229"
+#! >
+#! <OUTPUT_FEAT NAME="PASSED"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <OUTPUT_FEAT NAME="FAILED"/>
+#! <FEAT_COLLAPSED COLLAPSED="1"/>
+#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
+#! <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#! <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST @Value(currentIndex) &lt; @Value(_element_count)"/>
+#! <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_5"/>
+#! <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="&amp;currentIndex,&lt;,&amp;_element_count"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="4"
+#! TYPE="ExpressionEvaluator"
+#! VERSION="1"
+#! POSITION="1538 -545"
+#! BOUNDING_RECT="1538 -545 0 0"
+#! ORDER="13"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="12229"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="currentIndex"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ExpressionEvaluator"/>
+#! <XFORM_PARM PARM_NAME="EXPRESSION" PARM_VALUE="$(currentIndex)+1"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="5"
+#! TYPE="TCLCaller"
+#! VERSION="3"
+#! POSITION="1520 -277"
+#! BOUNDING_RECT="1520 -277 0 0"
+#! ORDER="14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="12229"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="SRC" PARM_VALUE="proc&lt;space&gt;attrAdd&lt;space&gt;&lt;opencurly&gt;attr&lt;space&gt;value&lt;closecurly&gt;&lt;space&gt;&lt;opencurly&gt;&lt;space&gt;&lt;space&gt;FME_SetAttribute&lt;space&gt;&lt;dollar&gt;attr&lt;space&gt;&lt;dollar&gt;value&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;closecurly&gt;"/>
+#! <XFORM_PARM PARM_NAME="TCLPROG" PARM_VALUE="attrAdd &amp;_fields &amp;_values"/>
+#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="_result"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="SRCFILE" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TCL_AttributeAdd"/>
+#! <XFORM_PARM PARM_NAME="NEW_ATTRIBUTES" PARM_VALUE=""/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="6"
+#! TYPE="ListCopier"
+#! VERSION="0"
+#! POSITION="925 -83"
+#! BOUNDING_RECT="925 -83 0 0"
+#! ORDER="15"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="12229"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="$(LIST_ATTR)"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DEST_LIST" PARM_VALUE="_fields"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListCopier_3"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="7"
+#! TYPE="ListCopier"
+#! VERSION="0"
+#! POSITION="925 -330"
+#! BOUNDING_RECT="925 -330 0 0"
+#! ORDER="16"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="12229"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="SRC_LIST" PARM_VALUE="$(SRC_LIST)"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DEST_LIST" PARM_VALUE="_values"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListCopier_2"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="8"
+#! TYPE="ListIndexer"
+#! VERSION="0"
+#! POSITION="986 -1030"
+#! BOUNDING_RECT="986 -1030 0 0"
+#! ORDER="17"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="12229"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.WorkspaceName" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_list{}.Repository" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="JobStatus{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Runs{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_fields" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_values" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_element_count" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="currentIndex" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="INDEX" PARM_VALUE="$(INDEX)"/>
+#! <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="_values{}"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListIndexer_2"/>
+#! </TRANSFORMER>
+#! </TRANSFORMERS>
+#! <SUBDOCUMENT_IOS>
+#! <SUBDOCUMENT_IO
+#! IDENTIFIER="9"
+#! NAME="OUTPUT"
+#! POSITION="2134 -992"
+#! BOUNDING_RECT="2134 -992 0 0"
+#! COLLAPSED="false"
+#! IS_SOURCE="false"
+#! ATTR_MODE="0"
+#! >
+#! </SUBDOCUMENT_IO>
+#! <SUBDOCUMENT_IO
+#! IDENTIFIER="10"
+#! NAME="INPUT"
+#! POSITION="347 -315"
+#! BOUNDING_RECT="347 -315 0 0"
+#! COLLAPSED="false"
+#! PUBLISHED="true"
+#! IS_SOURCE="true"
+#! ATTR_MODE="0"
+#! >
+#! </SUBDOCUMENT_IO>
+#! <SUBDOCUMENT_IO
+#! IDENTIFIER="11"
+#! NAME="INPUT"
+#! POSITION="2149 -792"
+#! BOUNDING_RECT="2149 -792 0 0"
+#! COLLAPSED="false"
+#! IS_SOURCE="loop"
+#! ATTR_MODE="0"
+#! >
+#! </SUBDOCUMENT_IO>
+#! </SUBDOCUMENT_IOS>
+#! <FEAT_LINKS>
+#! <FEAT_LINK
+#! IDENTIFIER="12"
+#! SOURCE_NODE="4"
+#! TARGET_NODE="3"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="13"
+#! SOURCE_NODE="1"
+#! TARGET_NODE="2"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="14"
+#! SOURCE_NODE="5"
+#! TARGET_NODE="4"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="15"
+#! SOURCE_NODE="10"
+#! TARGET_NODE="6"
+#! SOURCE_PORT_DESC="0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="16"
+#! SOURCE_NODE="3"
+#! TARGET_NODE="9"
+#! SOURCE_PORT_DESC="fo 1"
+#! TARGET_PORT_DESC="0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="17"
+#! SOURCE_NODE="6"
+#! TARGET_NODE="7"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="18"
+#! SOURCE_NODE="7"
+#! TARGET_NODE="1"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="19"
+#! SOURCE_NODE="8"
+#! TARGET_NODE="5"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="20"
+#! SOURCE_NODE="2"
+#! TARGET_NODE="8"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="21"
+#! SOURCE_NODE="3"
+#! TARGET_NODE="11"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! </FEAT_LINKS>
+#! <BREAKPOINTS>
+#! </BREAKPOINTS>
+#! <ATTR_LINKS>
+#! </ATTR_LINKS>
+#! </SUBDOCUMENT>
 #! </SUBDOCUMENTS>
 #! <LOOKUP_TABLES>
 #! </LOOKUP_TABLES>
@@ -2073,13 +2783,7 @@
 GUI IGNORE DestDataset_CSV_1,CSV_OUT_EXTENSION_CSV_1,CSV_OUT_APPEND_CSV_1,CSV_OUT_FIELD_NAMES_CSV_1,CSV_OUT_SEPARATOR_CSV_1,CSV_OUT_ENCODING_CSV_1,CSV_OUT_WRITE_UTF8_BOM_CSV_1,CSV_OUT_QUOTE_OUTPUT_CSV_1,CSV_OUT_QUOTE_FIELD_NAMES_CSV_1,CSV_OUT_END_OF_LINE_CSV_1
 DEFAULT_MACRO Max_Job_Age 1 month ago
 GUI TEXT Max_Job_Age Only include jobs from:
-DEFAULT_MACRO SERVER_HOST 
-GUI TEXT SERVER_HOST FME Server URL:
-DEFAULT_MACRO SERVER_TOKEN 
-GUI PASSWORD SERVER_TOKEN FME Server Token:
 INCLUDE [ if {{$(Max_Job_Age)} == {}} { puts_real {Parameter 'Max_Job_Age' must be given a value.}; exit 1; }; ]
-INCLUDE [ if {{$(SERVER_HOST)} == {}} { puts_real {Parameter 'SERVER_HOST' must be given a value.}; exit 1; }; ]
-INCLUDE [ if {{$(SERVER_TOKEN)} == {}} { puts_real {Parameter 'SERVER_TOKEN' must be given a value.}; exit 1; }; ]
 #! START_HEADER
 #! START_WB_HEADER
 READER_TYPE NULL
@@ -2206,11 +2910,76 @@ MACRO JobHistoryReader_WORKSPACE_NAME JobHistoryReader_2
 MACRO $(JobHistoryReader_WORKSPACE_NAME)_XFORMER_NAME JobHistoryReader_2
 MACRO $(JobHistoryReader_WORKSPACE_NAME)_TRANSFORMER_GROUP 
 MACRO $(JobHistoryReader_WORKSPACE_NAME)___COMPOUND_PARAMETERS 
-MACRO $(JobHistoryReader_WORKSPACE_NAME)_SERVER_HOST $(SERVER_HOST)
-MACRO $(JobHistoryReader_WORKSPACE_NAME)_SERVER_TOKEN $(SERVER_TOKEN)
+MACRO $(JobHistoryReader_WORKSPACE_NAME)_SUB_DOC_NAME JobHistoryReader
+MACRO $(JobHistoryReader_WORKSPACE_NAME)_SERVER_HOST https://demos-safe-software.fmecloud.com
+MACRO $(JobHistoryReader_WORKSPACE_NAME)_SERVER_TOKEN fme_decrypt(MDowfCN8I3xcG3GQ/TeRRUJUZ5LDPtdvpscbh7Nj9gG/INBkAGA+fkaDrNbhZtfa3rmkUUrCxKWaAFwiYsKgWJNl/0mRpxUuP+IT2c+Qhh26JEZtUWAmpuoaQCdQ3ykKWm2zaoAM5MBCGaGEuYe+6AS07/nLNRJwqp1jdwP1FgVCbXRvZtWfKjEZlNJYQ+EicVc6cv2DxCYJyTljvXwF8mKxenML6FKJiHARQCO8OMJidKKZQJP1SeYIhqB0YrtGw4cGV2ZquQKifvRjB2Tl6wBAWDmeCg+R1jvft1tR17SISyTDv77K+mV80w2aaUSgybbF7coM0BrQPcpehfjlW+YxV73+9mPMFXKQeznZ22T8MJor57O44p8U2NQCw35HiFBs0oVP9VkkY0D/WzGRevseyX1pIEWJSQSFwkJVhiyXavMDz5E5SEYgTZHfVeGBXCDuIEEbfRRkPU5yD2nw2ZAVimDRD7UQhEEY6PosGqU17He4y35WEfAggQ40+EKuupOQSZRsKotTTqlYGHJtX49ymuKqfyZzOAUSUzDMcj8gfDgzOCcuhw2sK3fJaMszm8/+BXMHAMjSY/Z8HGCGfe8YHpq8ohHQWsMcv1TgS81+QORpOi6jA6TnU7Rh4D8Tz2v/r7oxX9Ylndt6DEOHIUK5I/8MM+q3Z3hZ8rkALMz1vW1xfwicEyhFZncsIpGr1h1HzWUmHSaj+8ed6vWxxVYT359mErvdimumyG2eTSxZGSUioC0xhDEQ8HAgDWeLQYSGgdlNaONoI11F5Q+0yHW11Z7C0fYQtinSypPwcyd2/VlBlUyaY0qYt7bUJu6qtr6M/7gttNgLQJgQ4VbC++nlTlgjyJecScDlZ7YVg4Jm9PcrZOJu7LmCez64SBTDzF9Db3551w7iH3lMF4sq9ApR907uvZhD)
 MACRO $(JobHistoryReader_WORKSPACE_NAME)_MAX_JOB_AGE $(Max_Job_Age$encode)
 MACRO $(JobHistoryReader_WORKSPACE_NAME)_Server_Version v2
-INCLUDE_CUSTOM_TRANSFORMER_VER JobHistoryReader:1
+DEFAULT_MACRO JobHistoryReader_WORKSPACE_NAME ""
+INCLUDE [puts {MACRO WB_OLD_CONTEXT_$(JobHistoryReader_WORKSPACE_NAME) $(WB_CURRENT_CONTEXT)};          puts {MACRO WB_CURRENT_CONTEXT $(JobHistoryReader_WORKSPACE_NAME)}]
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(JobHistoryReader_WORKSPACE_NAME)_LoopHere1452206737 Input Splitter"   INPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_LoopHere"   OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_LoopHere"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(JobHistoryReader_WORKSPACE_NAME)_Input1452206737 Input Splitter"   INPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Input"   OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Input"
+# -------------------------------------------------------------------------
+FACTORY_DEF * AttrSetFactory FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_AttributeCreator ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Input" ATTR _offset 0 ATTR _max_job_age $($(JobHistoryReader_WORKSPACE_NAME)_MAX_JOB_AGE)    OUTPUT OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_AttributeCreator_OUTPUT" 
+# -------------------------------------------------------------------------
+
+# Expose all attributes.  This ensures that if you expose fme_dataset, you will get it.
+
+READER_META_ATTRIBUTES fme_feature_type fme_dataset fme_basename
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_AttributeExposer    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_LoopHere"    OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_AttributeExposer_OUTPUT"
+
+# -------------------------------------------------------------------------
+FACTORY_DEF * AttrSetFactory FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_AttributeCreator_2 ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_AttributeExposer_OUTPUT" ATTR _offset <at>Evaluate<openparen><at>Value<openparen>_offset<closeparen>+1000<closeparen>    OUTPUT OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_AttributeCreator_2_OUTPUT" 
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * HTTPFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_HTTPCaller       INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_AttributeCreator_OUTPUT"    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_AttributeCreator_2_OUTPUT"    TARGET_URL "@EvaluateExpression(FDIV,STRING_ENCODED,$($(JobHistoryReader_WORKSPACE_NAME)_SERVER_HOST$encode)<solidus>fmerest<solidus>$($(JobHistoryReader_WORKSPACE_NAME)_Server_Version)<solidus>transformations<solidus>jobs<solidus>completed,$(JobHistoryReader_WORKSPACE_NAME)_HTTPCaller)"    HTTP_METHOD GET    SAVE_FILE NO    OUTPUT_FILENAME "<Unused>"    OUTPUT_DIRECTORY "<Unused>"    TARGET_ATTR "_response_body"    FILE_PATH_ATTR "<Unused>"    UPLOAD_FILE "<Unused>"    UPLOAD_BODY "<Unused>"    MULTIPART_UPLOAD <Unused>    UPLOAD_CONTENT_TYPE "<Unused>"    COMBINED_MULTIPART_TABLE    REQUEST_HEADER_TABLE Authorization;@EvaluateExpression(FDIV,STRING_ENCODED,fmetoken<space>token=$($(JobHistoryReader_WORKSPACE_NAME)_SERVER_TOKEN$encode),$(JobHistoryReader_WORKSPACE_NAME)_HTTPCaller)    ADDITIONAL_URL_PARAMETERS limit;1000 offset;@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>_offset<closeparen>,$(JobHistoryReader_WORKSPACE_NAME)_HTTPCaller) detail;high    AUTH_USERNAME "<Unused>"    AUTH_PASSWORD "<Unused>"    AUTH_METHOD "<Unused>"    TARGET_ATTRIBUTE_ENCODING auto-detect    RESPONSE_HEADER_LIST_ATTR "_headers"    STATUS_CODE_ATTR "_http_status_code"    ERROR_ATTR "_error"    CONNECTION_TIMEOUT_LENGTH 60    TRANSFER_TIMEOUT_LENGTH 90    FOLLOW_REDIRECTS Yes    VERIFY_SSL_CERTIFICATES Yes    NAMED_CONNECTION "<Unused>"    USE_COOKIES No    OUTPUT OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_HTTPCaller_Output"    OUTPUT REJECTED FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_HTTPCaller_<Rejected>"
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * JSONQueryFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_JSONFragmenter    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_HTTPCaller_Output"    MODE EXPLODE    EXPLODE_FORMAT JSON    EXTRACT_ATTR Yes    JSON_ATTR _response_body    EXPLODE_QUERY "json<openbracket>*<closebracket>"    RECURSIVE_FLATTEN YES    OUTPUT EXPLODED FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_JSONFragmenter_EXPLODED"
+
+# -------------------------------------------------------------------------
+
+Tcl2 proc $(JobHistoryReader_WORKSPACE_NAME)_DateFormatter_formatter {invalidValue} {       set dateFormat {FME Date/Time (%Y%m%d%H%M%S)};       if { [string compare $dateFormat {FME Date/Time (%Y%m%d%H%M%S)}] == 0 } {          set dateFormat {%Y%m%d%H%M%S};       } elseif { [string compare $dateFormat {FME Date (%Y%m%d)}] == 0} {          set dateFormat {%Y%m%d};       } elseif { [string compare $dateFormat {FME Time (%H%M%S)}] == 0} {          set dateFormat {%H%M%S};       } elseif { [string compare $dateFormat {ISO Date (%Y-%m-%d)}] == 0} {          set dateFormat {%Y-%m-%d};       } elseif { [string compare $dateFormat {ISO DateTime (%Y-%m-%dT%H:%M:%S)}] == 0} {          set dateFormat {%Y-%m-%dT%H:%M:%S};       } elseif { [string compare $dateFormat {ISO Time (%H:%M:%S)}] == 0} {          set dateFormat {%H:%M:%S};       } elseif { [string compare $dateFormat {Locale Date (%c)}] == 0} {          set dateFormat {%c};       };     set attrs [split {_max_job_age} {,}];     foreach attr $attrs {        set date [string trim [FME_GetAttribute $attr]];        set srcfmt {};        if {{FME_AUTOMATIC} != {FME_AUTOMATIC}} {            set srcfmt {FME_AUTOMATIC};        } else {          set comment { In Automatic mode we ignore the millisecond part };          regexp {^[^.]*} $date date;        };        set dateLen [string length $date];        if {$dateLen > 0} {           if {[string length $srcfmt] == 0} {              set attrFull $attr;              append attrFull .full;              set fullDate [FME_GetAttribute $attrFull];              if { [string compare -length $dateLen $date $fullDate] == 0 } {                 set extra [string range $fullDate $dateLen end]000000;                 set date [string range \"$date$extra\" 0 13];                 set dateLen 14              };              if {($dateLen == 14) && [regexp {^[0-9]*$} $date]} {                 set srcfmt %Y%m%d%H%M%S;              };           };        };        set sourceFormatOpt {};        if {[string length $srcfmt] > 0} {           set sourceFormatOpt \"-format {$srcfmt}\";        };        set comment { Compute the output value and catch any errors };        set error [catch { set seconds [eval clock scan "{$date}" $sourceFormatOpt];                           set output [clock format $seconds -format $dateFormat];        }];        set comment { If there was error then we try again by removing digits after last decimal };        if { $error != 0 } {           set index [string last "." $date];           if { $index > 0 } {              set date [eval string range $date 0 [expr $index-1]];              set dateLen [string length $date];              set error [catch { set seconds [eval clock scan "{$date}" $sourceFormatOpt]; set output [clock format $seconds -format $dateFormat]; }];           };        };        if { $error == 0 } {           FME_SetAttribute $attr $output;        };        if { (0 == $dateLen) || ($error != 0) } {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };        };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_DateFormatter    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_JSONFragmenter_EXPLODED"    OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_DateFormatter_OUTPUT"         @Tcl2("$(JobHistoryReader_WORKSPACE_NAME)_DateFormatter_formatter {_FME_NO_OP_}")
+
+# -------------------------------------------------------------------------
+
+Tcl2 proc $(JobHistoryReader_WORKSPACE_NAME)_DateFormatter_2_formatter {invalidValue} {       set dateFormat {FME Date/Time (%Y%m%d%H%M%S)};       if { [string compare $dateFormat {FME Date/Time (%Y%m%d%H%M%S)}] == 0 } {          set dateFormat {%Y%m%d%H%M%S};       } elseif { [string compare $dateFormat {FME Date (%Y%m%d)}] == 0} {          set dateFormat {%Y%m%d};       } elseif { [string compare $dateFormat {FME Time (%H%M%S)}] == 0} {          set dateFormat {%H%M%S};       } elseif { [string compare $dateFormat {ISO Date (%Y-%m-%d)}] == 0} {          set dateFormat {%Y-%m-%d};       } elseif { [string compare $dateFormat {ISO DateTime (%Y-%m-%dT%H:%M:%S)}] == 0} {          set dateFormat {%Y-%m-%dT%H:%M:%S};       } elseif { [string compare $dateFormat {ISO Time (%H:%M:%S)}] == 0} {          set dateFormat {%H:%M:%S};       } elseif { [string compare $dateFormat {Locale Date (%c)}] == 0} {          set dateFormat {%c};       };     set attrs [split {timeFinished} {,}];     foreach attr $attrs {        set date [string trim [FME_GetAttribute $attr]];        set srcfmt {};        if {{FME_AUTOMATIC} != {FME_AUTOMATIC}} {            set srcfmt {FME_AUTOMATIC};        } else {          set comment { In Automatic mode we ignore the millisecond part };          regexp {^[^.]*} $date date;        };        set dateLen [string length $date];        if {$dateLen > 0} {           if {[string length $srcfmt] == 0} {              set attrFull $attr;              append attrFull .full;              set fullDate [FME_GetAttribute $attrFull];              if { [string compare -length $dateLen $date $fullDate] == 0 } {                 set extra [string range $fullDate $dateLen end]000000;                 set date [string range \"$date$extra\" 0 13];                 set dateLen 14              };              if {($dateLen == 14) && [regexp {^[0-9]*$} $date]} {                 set srcfmt %Y%m%d%H%M%S;              };           };        };        set sourceFormatOpt {};        if {[string length $srcfmt] > 0} {           set sourceFormatOpt \"-format {$srcfmt}\";        };        set comment { Compute the output value and catch any errors };        set error [catch { set seconds [eval clock scan "{$date}" $sourceFormatOpt];                           set output [clock format $seconds -format $dateFormat];        }];        set comment { If there was error then we try again by removing digits after last decimal };        if { $error != 0 } {           set index [string last "." $date];           if { $index > 0 } {              set date [eval string range $date 0 [expr $index-1]];              set dateLen [string length $date];              set error [catch { set seconds [eval clock scan "{$date}" $sourceFormatOpt]; set output [clock format $seconds -format $dateFormat]; }];           };        };        if { $error == 0 } {           FME_SetAttribute $attr $output;        };        if { (0 == $dateLen) || ($error != 0) } {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };        };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_DateFormatter_2    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_DateFormatter_OUTPUT"    OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_DateFormatter_2_OUTPUT"         @Tcl2("$(JobHistoryReader_WORKSPACE_NAME)_DateFormatter_2_formatter {_FME_NO_OP_}")
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TestFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_Tester    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_DateFormatter_2_OUTPUT"    TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>timeFinished<closeparen>,$(JobHistoryReader_WORKSPACE_NAME)_Tester) >= @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>_max_job_age<closeparen>,$(JobHistoryReader_WORKSPACE_NAME)_Tester) ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Tester_PASSED"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(JobHistoryReader_WORKSPACE_NAME)_Tester PASSED Splitter"   INPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Tester_PASSED"   OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Tester_PASSED_0_uR0vD4RMMwA="   OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Tester_PASSED_1_uR0vD4RMMwA="
+# -------------------------------------------------------------------------
+
+INCLUDE [ puts "MACRO REAL_RATE [expr 1000 * 1 ]" ]
+FACTORY_DEF * SamplingFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_Sampler    SAMPLE_RATE $(REAL_RATE)    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Tester_PASSED_0_uR0vD4RMMwA="    OUTPUT SAMPLED FEATURE_TYPE ___SAMPLED___
+# This TeeFactory is needed because Sampler will still output features if it has no OUTPUT clauses specified.
+# This way we behave nicely even if there are no output connections on the transformer. See PR#28886.
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_Sampler_Sampled    INPUT FEATURE_TYPE ___SAMPLED___    OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Sampler_SAMPLED"
+
+
+# -------------------------------------------------------------------------
+
+INCLUDE [    set macroLine "MACRO $(JobHistoryReader_WORKSPACE_NAME)_AttributeKeeper_54f388b6_b590_11e5_8b58_60030894943e1_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_AttributeKeeper    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Sampler_SAMPLED"    OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_AttributeKeeper_OUTPUT"        @KeepAttributes(fme_encoded,_offset,_max_job_age,fme_pcre_match,"^fme_$($(JobHistoryReader_WORKSPACE_NAME)_AttributeKeeper_54f388b6_b590_11e5_8b58_60030894943e1_LIST_EXP)")
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_BulkAttributeRenamer    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Tester_PASSED_1_uR0vD4RMMwA="    OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_BulkAttributeRenamer_OUTPUT"        @RenameAttributes(PATTERN_REPLACE, REMOVEPREFIX, YES, "<Unused>", "result.", "<Unused>", "<Unused>", "-_")
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(JobHistoryReader_WORKSPACE_NAME)_BulkAttributeRenamer_2    INPUT  FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_BulkAttributeRenamer_OUTPUT"    OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_BulkAttributeRenamer_2_OUTPUT"        @RenameAttributes(PATTERN_REPLACE, REMOVEPREFIX, YES, "<Unused>", "request.", "<Unused>", "<Unused>", "-_")
+
+FACTORY_DEF * BranchingFactory   TARGET_FACTORY "$(JobHistoryReader_WORKSPACE_NAME)_LoopHere1452206737 Input Splitter"   FACTORY_NAME "Loop to $(JobHistoryReader_WORKSPACE_NAME)_LoopHere1452206737 Input Splitter"   MAXIMUM_COUNT -1   INPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_AttributeKeeper_OUTPUT"   OUTPUT PASSED FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_LoopHere"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(JobHistoryReader_WORKSPACE_NAME)_<Rejected>1452206737 Output Collector"   INPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_HTTPCaller_<Rejected>"   OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_<Rejected>"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(JobHistoryReader_WORKSPACE_NAME)_Output1452206737 Output Collector"   INPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_BulkAttributeRenamer_2_OUTPUT"   OUTPUT FEATURE_TYPE "$(JobHistoryReader_WORKSPACE_NAME)_Output" @RemoveAttributes(_offset,_max_job_age,_http_status_code,_response_body,json_type,json_index) @RemoveAttributes(fme_regexp_match,_headers{}.name,_headers{}.value)
+INCLUDE [puts {MACRO WB_CURRENT_CONTEXT $(WB_OLD_CONTEXT_$(JobHistoryReader_WORKSPACE_NAME))}]
 FACTORY_DEF * TeeFactory   FACTORY_NAME "JobHistoryReader_2 Output Output Renamer/Nuker"   INPUT FEATURE_TYPE JobHistoryReader_2_Output   OUTPUT FEATURE_TYPE JobHistoryReader_2_Output
 FACTORY_DEF * TeeFactory   FACTORY_NAME "JobHistoryReader_2 <Rejected> Output Renamer/Nuker"   INPUT FEATURE_TYPE JobHistoryReader_2_<Rejected>   OUTPUT FEATURE_TYPE JobHistoryReader_2_<Rejected>
 # -------------------------------------------------------------------------
@@ -2222,8 +2991,8 @@ FACTORY_DEF * TeeFactory   FACTORY_NAME "JobHistoryReader__Rejected_ LOGGED Outp
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc StringReplacer_dcae0c04_6865_11e5_9a23_60030894943e0_replacer { findText replaceText invalidValue} {     set attrs [split \"workspacePath\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer    INPUT  FEATURE_TYPE JobHistoryReader_2_Output    OUTPUT FEATURE_TYPE StringReplacer_OUTPUT         @Tcl2("StringReplacer_dcae0c04_6865_11e5_9a23_60030894943e0_replacer {<quote>} {} {_FME_NO_OP_}")
+Tcl2 proc StringReplacer_54f39dd8_b590_11e5_8b58_60030894943e1_replacer { findText replaceText invalidValue} {     set attrs [split \"workspacePath\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME StringReplacer    INPUT  FEATURE_TYPE JobHistoryReader_2_Output    OUTPUT FEATURE_TYPE StringReplacer_OUTPUT         @Tcl2("StringReplacer_54f39dd8_b590_11e5_8b58_60030894943e1_replacer {<quote>} {} {_FME_NO_OP_}")
 
 # -------------------------------------------------------------------------
 
@@ -2231,16 +3000,16 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME FilenamePartExtractor    INPUT  FEATURE
 
 # -------------------------------------------------------------------------
 
-Tcl2 set AttributeSplitter_2_dcae15f0_6865_11e5_9a23_60030894943e0_splitDelim [FME_DecodeText {<solidus>}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_2_dcae15f0_6865_11e5_9a23_60030894943e0_splitDelim]] }      {         set AttributeSplitter_2_dcae15f0_6865_11e5_9a23_60030894943e0_splitWidths [split [regsub -all {s$} {<solidus>} {}] s];         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_dcae15f0_6865_11e5_9a23_60030894943e0_splitWidths;            set source [FME_GetAttribute [FME_DecodeText {folderpath}]];            set attrNum 0;            set listName [FME_DecodeText {_path}];            set attrPos 0;            set keepEmptyParts [string equal {No} {No}];            foreach width [set AttributeSplitter_2_dcae15f0_6865_11e5_9a23_60030894943e0_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               set part [string trim $bit];               if { $keepEmptyParts || $part != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $part;                  incr attrNum;               };               incr attrPos $width;            };         };      }      else      {         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_dcae15f0_6865_11e5_9a23_60030894943e0_splitDelim;            set delim [set AttributeSplitter_2_dcae15f0_6865_11e5_9a23_60030894943e0_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute [FME_DecodeText {folderpath}]];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              lappend bits [string range $source $startIndex [expr $nextIndex-1]];              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            lappend bits [string range $source $startIndex end];            set listName [FME_DecodeText {_path}];            set attrNum 0;            foreach bit $bits            {               set trimmedPart [string trim $bit];               if { $keepEmptyParts || $trimmedPart != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $trimmedPart;                  incr attrNum;               };            }          }       }
+Tcl2 set AttributeSplitter_2_54f3a904_b590_11e5_8b58_60030894943e1_splitDelim [FME_DecodeText {<solidus>}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_2_54f3a904_b590_11e5_8b58_60030894943e1_splitDelim]] }      {         set AttributeSplitter_2_54f3a904_b590_11e5_8b58_60030894943e1_splitWidths [split [regsub -all {s$} {<solidus>} {}] s];         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_54f3a904_b590_11e5_8b58_60030894943e1_splitWidths;            set source [FME_GetAttribute [FME_DecodeText {folderpath}]];            set attrNum 0;            set listName [FME_DecodeText {_path}];            set attrPos 0;            set keepEmptyParts [string equal {No} {No}];            foreach width [set AttributeSplitter_2_54f3a904_b590_11e5_8b58_60030894943e1_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               set part [string trim $bit];               if { $keepEmptyParts || $part != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $part;                  incr attrNum;               };               incr attrPos $width;            };         };      }      else      {         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_54f3a904_b590_11e5_8b58_60030894943e1_splitDelim;            set delim [set AttributeSplitter_2_54f3a904_b590_11e5_8b58_60030894943e1_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute [FME_DecodeText {folderpath}]];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              lappend bits [string range $source $startIndex [expr $nextIndex-1]];              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            lappend bits [string range $source $startIndex end];            set listName [FME_DecodeText {_path}];            set attrNum 0;            foreach bit $bits            {               set trimmedPart [string trim $bit];               if { $keepEmptyParts || $trimmedPart != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $trimmedPart;                  incr attrNum;               };            }          }       }
 FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeSplitter_2    INPUT  FEATURE_TYPE FilenamePartExtractor_OUTPUT    OUTPUT FEATURE_TYPE AttributeSplitter_2_OUTPUT         @Tcl2(AttributeSplitter_2_doSplit)
 
 # -------------------------------------------------------------------------
 FACTORY_DEF * AttrSetFactory FACTORY_NAME AttributeCreator_3 ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV INPUT  FEATURE_TYPE AttributeSplitter_2_OUTPUT ATTR Repository <at>Value<openparen>_path<opencurly>0<closecurly><closeparen> ATTR JobStatus <at>Value<openparen>status<closeparen>    OUTPUT OUTPUT FEATURE_TYPE AttributeCreator_3_OUTPUT 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_dcae2306_6865_11e5_9a23_60030894943e0_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_54f3b4ee_b590_11e5_8b58_60030894943e1_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE AttributeCreator_3_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,Repository,WorkspaceName,JobStatus,fme_pcre_match,"^fme_$(AttributeKeeper_dcae2306_6865_11e5_9a23_60030894943e0_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE AttributeCreator_3_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,Repository,WorkspaceName,JobStatus,fme_pcre_match,"^fme_$(AttributeKeeper_54f3b4ee_b590_11e5_8b58_60030894943e1_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
@@ -2284,7 +3053,7 @@ MACRO $(RecordBuilder_WORKSPACE_NAME)_SRC_LIST Runs{}
 MACRO $(RecordBuilder_WORKSPACE_NAME)_REMOVE_ATTRS 
 DEFAULT_MACRO RecordBuilder_WORKSPACE_NAME ""
 INCLUDE [puts {MACRO WB_OLD_CONTEXT_$(RecordBuilder_WORKSPACE_NAME) $(WB_CURRENT_CONTEXT)};          puts {MACRO WB_CURRENT_CONTEXT $(RecordBuilder_WORKSPACE_NAME)}]
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilder_WORKSPACE_NAME)_INPUT1443722240 Input Splitter"   INPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_INPUT"   OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_INPUT"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilder_WORKSPACE_NAME)_INPUT1452206737 Input Splitter"   INPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_INPUT"   OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_INPUT"
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME $(RecordBuilder_WORKSPACE_NAME)_ListCopier_3    INPUT  FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_INPUT"    OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_ListCopier_3_OUTPUT"         @CopyAttributes("_fields"{},"$($(RecordBuilder_WORKSPACE_NAME)_LIST_ATTR)")
@@ -2306,9 +3075,9 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME $(RecordBuilder_WORKSPACE_NAME)_ListEle
 
 # -------------------------------------------------------------------------
 
-Tcl2 proc $(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3_dcae746e_6865_11e5_9a23_60030894943e0_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {$(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {$(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
+Tcl2 proc $(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3_54f4012e_b590_11e5_8b58_60030894943e1_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {$(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {$(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME $(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3    INPUT  FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_ListElementCounter_OUTPUT"    OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3_OUTPUT"         "@Tcl2( $(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3_dcae746e_6865_11e5_9a23_60030894943e0_attrSetter {(currentIndex,0)} )"
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3    INPUT  FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_ListElementCounter_OUTPUT"    OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3_OUTPUT"         "@Tcl2( $(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3_54f4012e_b590_11e5_8b58_60030894943e1_attrSetter {(currentIndex,0)} )"
 
 # -------------------------------------------------------------------------
 FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilder_WORKSPACE_NAME)_RecordBuilderLoop INPUT Input Collector"   INPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_AttributeCreator_3_OUTPUT"   OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_RecordBuilderLoop_INPUT"
@@ -2323,7 +3092,7 @@ MACRO $(RecordBuilderLoop_WORKSPACE_NAME)_SRC_LIST _values{}
 MACRO $(RecordBuilderLoop_WORKSPACE_NAME)_currentIndex @Value(currentIndex)
 DEFAULT_MACRO RecordBuilderLoop_WORKSPACE_NAME ""
 INCLUDE [puts {MACRO WB_OLD_CONTEXT_$(RecordBuilderLoop_WORKSPACE_NAME) $(WB_CURRENT_CONTEXT)};          puts {MACRO WB_CURRENT_CONTEXT $(RecordBuilderLoop_WORKSPACE_NAME)}]
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT1443722240 Input Splitter"   INPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT"   OUTPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT1452206737 Input Splitter"   INPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT"   OUTPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT"
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME $(RecordBuilderLoop_WORKSPACE_NAME)_ListCopier_3    INPUT  FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT"    OUTPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_ListCopier_3_OUTPUT"         @CopyAttributes("_fields"{},"$($(RecordBuilderLoop_WORKSPACE_NAME)_LIST_ATTR)")
@@ -2360,8 +3129,8 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME $(RecordBuilderLoop_WORKSPACE_NAME)_Exp
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TestFactory    FACTORY_NAME $(RecordBuilderLoop_WORKSPACE_NAME)_Tester_5    INPUT  FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_ExpressionEvaluator_OUTPUT"    TEST "@EvaluateExpression(STRING,<at>Value<openparen>currentIndex<closeparen>,$(RecordBuilderLoop_WORKSPACE_NAME)_Tester_5)" < "@EvaluateExpression(STRING,<at>Value<openparen>_element_count<closeparen>,$(RecordBuilderLoop_WORKSPACE_NAME)_Tester_5)"    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_Tester_5_PASSED"    OUTPUT FAILED FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_Tester_5_FAILED"
-FACTORY_DEF * BranchingFactory   TARGET_FACTORY "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT1443722240 Input Splitter"   FACTORY_NAME "Loop to $(RecordBuilderLoop_WORKSPACE_NAME)_INPUT1443722240 Input Splitter"   MAXIMUM_COUNT -1   INPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_Tester_5_PASSED"   OUTPUT PASSED FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT"
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilderLoop_WORKSPACE_NAME)_OUTPUT1443722240 Output Collector"   INPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_Tester_5_FAILED"   OUTPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_OUTPUT"
+FACTORY_DEF * BranchingFactory   TARGET_FACTORY "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT1452206737 Input Splitter"   FACTORY_NAME "Loop to $(RecordBuilderLoop_WORKSPACE_NAME)_INPUT1452206737 Input Splitter"   MAXIMUM_COUNT -1   INPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_Tester_5_PASSED"   OUTPUT PASSED FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_INPUT"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilderLoop_WORKSPACE_NAME)_OUTPUT1452206737 Output Collector"   INPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_Tester_5_FAILED"   OUTPUT FEATURE_TYPE "$(RecordBuilderLoop_WORKSPACE_NAME)_OUTPUT"
 INCLUDE [puts {MACRO WB_CURRENT_CONTEXT $(WB_OLD_CONTEXT_$(RecordBuilderLoop_WORKSPACE_NAME))}]
 FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilder_WORKSPACE_NAME)_RecordBuilderLoop OUTPUT Output Renamer/Nuker"   INPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_RecordBuilderLoop_OUTPUT"   OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_RecordBuilderLoop_OUTPUT"
 # -------------------------------------------------------------------------
@@ -2375,7 +3144,7 @@ INCLUDE [    set macroLine "MACRO $(RecordBuilder_WORKSPACE_NAME)_ListRemover_LI
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME $(RecordBuilder_WORKSPACE_NAME)_ListRemover    INPUT  FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_AttributeRemover_OUTPUT"    OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_ListRemover_OUTPUT"         @RemoveAttributes(fme_regexp_match$($(RecordBuilder_WORKSPACE_NAME)_ListRemover_LIST_EXP))
 
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilder_WORKSPACE_NAME)_OUTPUT1443722240 Output Collector"   INPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_ListRemover_OUTPUT"   OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_OUTPUT"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(RecordBuilder_WORKSPACE_NAME)_OUTPUT1452206737 Output Collector"   INPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_ListRemover_OUTPUT"   OUTPUT FEATURE_TYPE "$(RecordBuilder_WORKSPACE_NAME)_OUTPUT"
 INCLUDE [puts {MACRO WB_CURRENT_CONTEXT $(WB_OLD_CONTEXT_$(RecordBuilder_WORKSPACE_NAME))}]
 FACTORY_DEF * TeeFactory   FACTORY_NAME "RecordBuilder OUTPUT Output Renamer/Nuker"   INPUT FEATURE_TYPE RecordBuilder_OUTPUT   OUTPUT FEATURE_TYPE RecordBuilder_OUTPUT
 # -------------------------------------------------------------------------

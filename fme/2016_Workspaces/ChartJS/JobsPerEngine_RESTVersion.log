@@ -1,0 +1,200 @@
+2016-01-12 14:44:24|   0.1|  0.1|INFORM|FME 2016.0.0.0 Beta (20160106 - Build 16160 - macosx)
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME_HOME is '/Library/FME/2016.0/'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Desktop Smallworld Edition (floating)
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Permanent License.
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Machine host name is: gimli.safe.internal
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|START - ProcessID: 16496, peak process memory usage: 0 kB, current process memory usage: 106712 kB
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Command line arguments are `/Library/FME/2016.0//bin/fme' `/www/fmepedia-server-dashboard/fme/2016_Workspaces/ChartJS/wb-xlate-1452638663652_16360' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{7d246d1f-ef1a-4f0e-b632-eaac80a8da70}'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Shared folders for formats are : /Library/FME/2016.0/datasources;/Users/lkerssens/Library/Application Support/FME/Formats
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Shared folders for transformers are : /Library/FME/2016.0/transformers;/Users/lkerssens/Library/Caches/Safe Software/FME/FME Store/Transformers;/Users/lkerssens/Library/Application Support/FME/Transformers
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Shared folders for coordinate systems are : /Users/lkerssens/Library/Application Support/FME/CoordinateSystems
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Shared folders for coordinate system exceptions are : /Users/lkerssens/Library/Application Support/FME/CoordinateSystemExceptions
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Shared folders for coordinate system grid overrides are : /Users/lkerssens/Library/Application Support/FME/CoordinateSystemGridOverrides
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : /Users/lkerssens/Library/Application Support/FME/CsmapTransformationExceptions
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Shared folders for transformer categories are : /Users/lkerssens/Library/Application Support/FME/TransformerCategories
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Mapping File Identifier is: none2none
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Reader Keyword is `NULL_SOURCE'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Reader type is `NULL'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Current working folder is `/www/fmepedia-server-dashboard/fme/2016_Workspaces/ChartJS'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Temporary folder is `/tmp'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: FME_HOME is `/Library/FME/2016.0/'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: FME_MF_DIR is '/www/fmepedia-server-dashboard/fme/2016_Workspaces/ChartJS/'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'JobsPerEngine_RESTVersion.fmw'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2016.0.0.0'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|System Status: 140.71 TB of disk space available in the FME temporary folder (/tmp)
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|System Status: 579.07 GB of virtual memory available
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Operating System: Darwin 14.5.0 x86_64
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Platform: macosx
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|The memory allocator being used by FME is : `/usr/lib/system/libsystem_malloc.dylib'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Locale: C
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Process limits are 16.00 GB of physical memory and 579.07 GB of address space
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 577.90 GB of memory or 578.49 GB of address space
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 433.43 GB of memory and 433.87 GB of address space
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Creating writer for format: 
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Creating reader for format: NULL (Nothing)
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `NULL'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|DYLD_LIBRARY_PATH is not set
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Loaded module 'NULL' from file '/Library/FME/2016.0/plugins/null.so'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME API version of module 'NULL' matches current internal version (3.8 20151127)
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Using MultiWriter $Revision$ ( $Date$ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Loaded module 'LogCount_func' from file '/Library/FME/2016.0/plugins/logcount_func.so'
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20151127)
+2016-01-12 14:44:24|   0.1|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
+2016-01-12 14:44:24|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2016-01-12 14:44:24|   0.2|  0.0|INFORM|Loaded module 'Geometry_func' from file '/Library/FME/2016.0/plugins/geometry_func.so'
+2016-01-12 14:44:24|   0.2|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20151127)
+2016-01-12 14:44:24|   0.2|  0.0|INFORM|Loaded module 'HTTPFactory' from file '/Library/FME/2016.0/plugins/httpfactory.so'
+2016-01-12 14:44:24|   0.2|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20151127)
+2016-01-12 14:44:24|   0.2|  0.0|INFORM|Loaded module 'JSONQueryFactory' from file '/Library/FME/2016.0/plugins/jsonqueryfactory.so'
+2016-01-12 14:44:24|   0.2|  0.0|INFORM|FME API version of module 'JSONQueryFactory' matches current internal version (3.8 20151127)
+2016-01-12 14:44:24|   0.2|  0.0|INFORM|Emptying factory pipeline
+2016-01-12 14:44:24|   0.2|  0.0|INFORM|Sending request to 'https://bluesky-safe-software.fmecloud.com/fmerest/v3/transformations/jobs/completed?limit=1000&offset=0'
+2016-01-12 14:44:26|   0.2|  0.0|INFORM|JobHistoryReader_HTTPCaller(HTTPFactory): HTTP transfer summary - status code: 200, download size: '49596 bytes', DNS lookup time: '0.410023 seconds', total transfer time: '2.484608 seconds', url: 'https://bluesky-safe-software.fmecloud.com/fmerest/v3/transformations/jobs/completed?limit=1000&offset=0'
+2016-01-12 14:44:27|   0.8|  0.6|STATS |Creator_XML_Creator(CreationFactory): Created 1 features
+2016-01-12 14:44:27|   0.8|  0.0|STATS |Creator_Cloner(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |Creator_CREATED Feature Counter -1 56(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader Input Input Collector(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_LoopHere1452638189 Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_Input1452638189 Input Splitter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_DateFormatter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_AttributeExposer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_DateFormatter_2(TeeFactory): Cloned 1000 input feature(s) into 1000 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_Tester(TestFactory): Tested 1000 input feature(s) -- 647 feature(s) passed and 353 feature(s) failed
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_Tester PASSED Splitter(TeeFactory): Cloned 647 input feature(s) into 1294 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_BulkAttributeRenamer(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_BulkAttributeRenamer_2(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_Sampler(SamplingFactory): Sampled 0 of 647 feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_Sampler_Sampled(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_AttributeKeeper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |Loop to JobHistoryReader_LoopHere1452638189 Input Splitter(BranchingFactory): Branched 0 input features -- 0 features routed to the target factory, and 0 features routed to the fallback factory.
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_<Rejected>1452638189 Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_Output1452638189 Output Collector(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader Output Output Renamer/Nuker(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader <Rejected> Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_Output Feature Counter -1 57(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |JobHistoryReader_<Rejected> Feature Counter -1 49(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |Terminator(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2016-01-12 14:44:27|   0.8|  0.0|STATS |StringReplacer(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |StringReplacer_OUTPUT Feature Counter -1 55(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |FilenamePartExtractor(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |FilenamePartExtractor_OUTPUT Feature Counter -1 28(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |AttributeSplitter_2(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |AttributeSplitter_2_OUTPUT Feature Counter -1 35(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |AttributeCreator_3_OUTPUT Feature Counter -1 102(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |DateFormatter(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |DateFormatter_OUTPUT Feature Counter -1 115(TeeFactory): Cloned 647 input feature(s) into 647 output feature(s)
+2016-01-12 14:44:27|   0.8|  0.0|STATS |Storing feature(s) to FME feature store file `/tmp/JobsPerEngine_RESTVersion_144423/inspector.ffs'
+2016-01-12 14:44:27|   0.8|  0.0|STATS |Storing feature(s) to FME feature store file `/tmp/JobsPerEngine_RESTVersion_144423/inspector.fsc'
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Aggregator_2(AggregateFactory): Combined 647 input feature(s) into 6 output feature(s), including 0 singleton(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Aggregator_2_AGGREGATE Feature Counter -1 109(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeKeeper_2(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeKeeper_2_OUTPUT Feature Counter -1 80(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5 OUTPUT Splitter(TeeFactory): Cloned 6 input feature(s) into 12 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5_OUTPUT_0_FzMqF8JOTj8= Feature Counter -1 108(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5_OUTPUT_1_lbcjWHeNkKI= Feature Counter -1 51(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Aggregator (Disabled) Nuker(TeeFactory): Cloned 6 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Aggregator_AGGREGATE Feature Counter -1 116(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |ListRenamer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |ListRenamer_OUTPUT Feature Counter -1 121(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |ListRenamer_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |ListRenamer_2_OUTPUT Feature Counter -1 117(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder INPUT Input Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_INPUT1452638663 Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_INPUT Feature Counter 1 13(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_ListCopier_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_ListCopier_3_OUTPUT Feature Counter 1 15(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_ListCopier_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_ListCopier_2_OUTPUT Feature Counter 1 14(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_AttributeExposer_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_AttributeExposer_3_OUTPUT Feature Counter 1 12(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_ListElementCounter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_ListElementCounter_OUTPUT Feature Counter 1 11(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_AttributeCreator_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_AttributeCreator_3_OUTPUT Feature Counter 1 19(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop INPUT Input Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_INPUT1452638663 Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_INPUT Feature Counter 0 15(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ListCopier_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ListCopier_3_OUTPUT Feature Counter 0 17(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ListCopier_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ListCopier_2_OUTPUT Feature Counter 0 18(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_AttributeExposer_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_AttributeExposer_3_OUTPUT Feature Counter 0 13(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ListIndexer_27(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ListIndexer_27_OUTPUT Feature Counter 0 20(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ListIndexer_2(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ListIndexer_2_OUTPUT Feature Counter 0 19(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_TCL_AttributeAdd(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_TCL_AttributeAdd_OUTPUT Feature Counter 0 14(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ExpressionEvaluator(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_ExpressionEvaluator_OUTPUT Feature Counter 0 12(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_Tester_5(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_Tester_5_PASSED Feature Counter 0 21(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_Tester_5_FAILED Feature Counter 0 16(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Loop to RecordBuilder_RecordBuilderLoop_INPUT1452638663 Input Splitter(BranchingFactory): Branched 0 input features -- 0 features routed to the target factory, and 0 features routed to the fallback factory.
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_OUTPUT1452638663 Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop OUTPUT Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_RecordBuilderLoop_OUTPUT Feature Counter 1 16(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_AttributeRemover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_AttributeRemover_OUTPUT Feature Counter 1 17(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_ListRemover(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_ListRemover_OUTPUT Feature Counter 1 18(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_OUTPUT1452638663 Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder OUTPUT Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |RecordBuilder_OUTPUT Feature Counter -1 106(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_OUTPUT Feature Counter -1 67(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |DateFormatter_6(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |DateFormatter_6_OUTPUT Feature Counter -1 96(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeExposer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeExposer_OUTPUT Feature Counter -1 100(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |NullAttributeMapper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |NullAttributeMapper_OUTPUT Feature Counter -1 62(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |ListSummer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |ListSummer_OUTPUT Feature Counter -1 63(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Sorter(SortFactory): Sorted 0 feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Sorter_SORTED Feature Counter -1 70(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5_Output_DirCreator(CreationFactory): Created 1 features
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5_Output_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5_Output_FeatureDirector(TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5_Output___FeatureDirector1(TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5_Output_VectorSetterUpper(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5_Output___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |AttributeCreator_5_Output_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Stored 6 feature(s) to FME feature store file `/tmp/JobsPerEngine_RESTVersion_144423/inspector.ffs'
+2016-01-12 14:44:27|   0.9|  0.0|INFORM|Saving spatial index into file '/tmp/JobsPerEngine_RESTVersion_144423/inspector.fsi'
+2016-01-12 14:44:27|   0.9|  0.0|INFORM|Finished saving spatial index into file '/tmp/JobsPerEngine_RESTVersion_144423/inspector.fsi'
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Stored 1 feature(s) to FME feature store file `/tmp/JobsPerEngine_RESTVersion_144423/inspector.fsc'
+2016-01-12 14:44:27|   0.9|  0.0|INFORM|AttributeCreator_5_Output_Recorder(RecorderFactory): Recorded 6 feature(s) to file `/tmp/JobsPerEngine_RESTVersion_144423/inspector.ffs'
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|STATS |f_119(CreationFactory): Created 1 features
+2016-01-12 14:44:27|   0.9|  0.0|STATS |f_120(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2016-01-12 14:44:27|   0.9|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
+2016-01-12 14:44:27|   0.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|STATS |                               Features Written
+2016-01-12 14:44:27|   0.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|STATS |==============================================================================
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Total Features Written                                                       0
+2016-01-12 14:44:27|   0.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|STATS |                            Features Read Summary
+2016-01-12 14:44:27|   0.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|STATS |==============================================================================
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Total Features Read                                                          0
+2016-01-12 14:44:27|   0.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|STATS |                           Features Written Summary
+2016-01-12 14:44:27|   0.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|STATS |==============================================================================
+2016-01-12 14:44:27|   0.9|  0.0|STATS |Total Features Written                                                       0
+2016-01-12 14:44:27|   0.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2016-01-12 14:44:27|   0.9|  0.0|INFORM|Translation was SUCCESSFUL with 0 warning(s) (0 feature(s) output)
+2016-01-12 14:44:27|   0.9|  0.0|INFORM|FME Session Duration: 3.3 seconds. (CPU: 0.8s user, 0.0s system)
+2016-01-12 14:44:27|   0.9|  0.0|INFORM|END - ProcessID: 16496, peak process memory usage: 0 kB, current process memory usage: 138452 kB
